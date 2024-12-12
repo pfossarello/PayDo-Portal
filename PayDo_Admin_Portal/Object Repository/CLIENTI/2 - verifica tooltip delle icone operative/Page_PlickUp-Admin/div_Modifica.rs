@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Modifica</name>
+   <tag></tag>
+   <elementGuidId>a21202a5-1bc6-4e62-a288-484b7982506d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr/td[6]/div/a/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.group.relative.flex.px-2 > div.py-2.inline-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0ea7405-8c64-4567-bc42-81c61c174597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-2 inline-block</value>
+      <webElementGuid>bd77abe5-b349-4b8c-ac36-6ab49c7b56ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Modifica</value>
+      <webElementGuid>1294e6bc-c873-41dc-9e15-2e9a1fbf49c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full relative&quot;]/table[@class=&quot;min-w-full table-auto px-2 text-skin-base relative&quot;]/tbody[@class=&quot;bg-white divide-y divide-skin-borderRowTable border border-skin-borderRowTable&quot;]/tr[@class=&quot;h-14&quot;]/td[@class=&quot;px-3 py-1 whitespace-nowrap text-skin-base font-regularMontserrat text-base&quot;]/div[@class=&quot;flex justify-end items-center pr-5&quot;]/a[1]/button[@class=&quot;group relative flex px-2&quot;]/div[@class=&quot;py-2 inline-block&quot;]</value>
+      <webElementGuid>3a996372-d43b-4332-af4f-5e812b499c40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr/td[6]/div/a/button/div</value>
+      <webElementGuid>fa24c2c9-f1fb-44c4-b815-c123ec6f2749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='davide.casadei+customer_first@txt.fastcode.it'])[1]/following::div[2]</value>
+      <webElementGuid>8c30489b-5bdc-4ad6-bb4d-6cb6b062fbd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FastBank'])[1]/following::div[2]</value>
+      <webElementGuid>51ef3984-1cd7-461d-959d-8a05767e6271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Armenio'])[1]/preceding::div[21]</value>
+      <webElementGuid>89cc001c-7882-4f2e-8b53-884ed2fa9464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pirone'])[1]/preceding::div[21]</value>
+      <webElementGuid>81ef1230-fb8a-4ed0-a74e-c359d855db41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>a78a26d2-ec21-469b-b333-59f4d7693a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Modifica' or . = 'Modifica')]</value>
+      <webElementGuid>eb290ca2-213c-4265-b334-092a57e8ee70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

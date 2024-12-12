@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_adadadAgenzia Giorgia 1Agenzia Salva_190f75</name>
+   <tag></tag>
+   <elementGuidId>bf00538c-2bab-4d98-9a4d-e70b7c17d754</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rdl-uhpatR2S69yjrp_2ejbBF-available</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div//select//option[contains(text(),'Agenzia Giorgia 1')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>587b9554-0414-4383-b7b9-20e9c0ab5fa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rdl-control</value>
+      <webElementGuid>9c9d1f8c-7580-4480-ad4d-453068d53236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rdl-uhpatR2S69yjrp_2ejbBF-available</value>
+      <webElementGuid>92df482e-3b90-4b6d-983d-af0e365d18f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>adadadAgenzia Giorgia 1Agenzia Salvatore TestAgenzia test SekurestAntonio MarcoAriosto LudovicoArmenioBirobulkok1bulkok2CentroLibriCesare GiulioCliente di test IntegrazioneCLiente tCliente2°livelloClienteTest1°LivCustomer Test PadreCustomer Test Padre 2CustomerDiTestCustomerDiTestFiglioDaiomoDC_000DC_001DC_002DC_003DC_004DC_005DC_006DC_007DC_008DC_009DC_010DC_011DC_012DC_013DC_014DC_015DC_016DC_017DC_018DC_019DC_020DC_021DC_022DC_023DC_024DC_025DC_026DC_027DC_028DC_029DC_030DC_031DC_032DC_033DC_034DC_035DC_036DC_037DC_038DC_039DCBankEgitto CleopatraEremoEuronicsFastBankFClienteditstFerreroFerrero2FerreroSal2FerreroSal3Gabriele 3Gabriele 5Gabriele AverardiGabriele Averardi 3Gabriele Averardi2Gabriele1Gabriele2 testGallo SimonaGrosso MattiaMachiavelli NiccolòMitica MatildeMobilesoftNew ClientOmarPaolono AridonePaydoTestSalCompleteSalComplete2Salvatore testSamueleSekurestTestTest 2TEST EREDITA PADRETest eredità templateTEST SECONDO LIVELLOtest23testbulk1testbulk12testbulk2testbulk23testbulk3testbulk33testbulk35testbulk37testbulk38testbulk4testbulk40testbulk44testbulk5testbulk9testesecondolivelloERTestTestTestVIERI BOBO</value>
+      <webElementGuid>92c82570-0f8f-47ac-b184-3355e9ec67de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rdl-uhpatR2S69yjrp_2ejbBF-available&quot;)</value>
+      <webElementGuid>6214ca6b-36df-41b9-90dc-91940ac4abab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='rdl-uhpatR2S69yjrp_2ejbBF-available']</value>
+      <webElementGuid>7b5743fd-6fbf-4abc-9813-674959eb786c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rdl-uhpatR2S69yjrp_2ejbBF']/div/div[2]/select</value>
+      <webElementGuid>2e67014a-4119-44b2-bb35-ffe7a7a5c11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter available'])[1]/following::select[1]</value>
+      <webElementGuid>05d74171-0fd4-493a-945d-8bea847d1016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[1]/following::select[1]</value>
+      <webElementGuid>fd77bad4-33ae-459e-9862-5c160f318437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/preceding::select[1]</value>
+      <webElementGuid>28b8c332-7d9f-453b-858b-b142d4079a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter selected'])[1]/preceding::select[1]</value>
+      <webElementGuid>d6f52809-7255-40ee-96be-da2347d1fb8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>dbfd4aee-97d2-427e-a661-c22767030fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'rdl-uhpatR2S69yjrp_2ejbBF-available' and (text() = 'adadadAgenzia Giorgia 1Agenzia Salvatore TestAgenzia test SekurestAntonio MarcoAriosto LudovicoArmenioBirobulkok1bulkok2CentroLibriCesare GiulioCliente di test IntegrazioneCLiente tCliente2°livelloClienteTest1°LivCustomer Test PadreCustomer Test Padre 2CustomerDiTestCustomerDiTestFiglioDaiomoDC_000DC_001DC_002DC_003DC_004DC_005DC_006DC_007DC_008DC_009DC_010DC_011DC_012DC_013DC_014DC_015DC_016DC_017DC_018DC_019DC_020DC_021DC_022DC_023DC_024DC_025DC_026DC_027DC_028DC_029DC_030DC_031DC_032DC_033DC_034DC_035DC_036DC_037DC_038DC_039DCBankEgitto CleopatraEremoEuronicsFastBankFClienteditstFerreroFerrero2FerreroSal2FerreroSal3Gabriele 3Gabriele 5Gabriele AverardiGabriele Averardi 3Gabriele Averardi2Gabriele1Gabriele2 testGallo SimonaGrosso MattiaMachiavelli NiccolòMitica MatildeMobilesoftNew ClientOmarPaolono AridonePaydoTestSalCompleteSalComplete2Salvatore testSamueleSekurestTestTest 2TEST EREDITA PADRETest eredità templateTEST SECONDO LIVELLOtest23testbulk1testbulk12testbulk2testbulk23testbulk3testbulk33testbulk35testbulk37testbulk38testbulk4testbulk40testbulk44testbulk5testbulk9testesecondolivelloERTestTestTestVIERI BOBO' or . = 'adadadAgenzia Giorgia 1Agenzia Salvatore TestAgenzia test SekurestAntonio MarcoAriosto LudovicoArmenioBirobulkok1bulkok2CentroLibriCesare GiulioCliente di test IntegrazioneCLiente tCliente2°livelloClienteTest1°LivCustomer Test PadreCustomer Test Padre 2CustomerDiTestCustomerDiTestFiglioDaiomoDC_000DC_001DC_002DC_003DC_004DC_005DC_006DC_007DC_008DC_009DC_010DC_011DC_012DC_013DC_014DC_015DC_016DC_017DC_018DC_019DC_020DC_021DC_022DC_023DC_024DC_025DC_026DC_027DC_028DC_029DC_030DC_031DC_032DC_033DC_034DC_035DC_036DC_037DC_038DC_039DCBankEgitto CleopatraEremoEuronicsFastBankFClienteditstFerreroFerrero2FerreroSal2FerreroSal3Gabriele 3Gabriele 5Gabriele AverardiGabriele Averardi 3Gabriele Averardi2Gabriele1Gabriele2 testGallo SimonaGrosso MattiaMachiavelli NiccolòMitica MatildeMobilesoftNew ClientOmarPaolono AridonePaydoTestSalCompleteSalComplete2Salvatore testSamueleSekurestTestTest 2TEST EREDITA PADRETest eredità templateTEST SECONDO LIVELLOtest23testbulk1testbulk12testbulk2testbulk23testbulk3testbulk33testbulk35testbulk37testbulk38testbulk4testbulk40testbulk44testbulk5testbulk9testesecondolivelloERTestTestTestVIERI BOBO')]</value>
+      <webElementGuid>961be576-93a0-445f-830e-d9799dc9d5e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

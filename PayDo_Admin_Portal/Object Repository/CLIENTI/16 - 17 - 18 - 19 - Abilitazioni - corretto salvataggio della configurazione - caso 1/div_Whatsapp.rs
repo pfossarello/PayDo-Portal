@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Whatsapp</name>
+   <tag></tag>
+   <elementGuidId>cc2882b5-0f85-4422-ae78-b5856ded961a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Whatsapp' or . = 'Whatsapp')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f9a8eb1-074c-4975-985f-ee5945613468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slide relative border px-5 rounded-md w-28 md:w-auto md:mx-2 xl:w-28 text-center text-base</value>
+      <webElementGuid>d0277b0c-bf9e-4d63-aacb-34d08bc3fc9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Whatsapp</value>
+      <webElementGuid>31de56c7-0591-4ef2-b84f-e3a55f21b757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap mt-10 space-y-8 md:space-y-0&quot;]/div[@class=&quot;md:w-1/2 flex flex-col items-start h-auto w-full relative&quot;]/div[@class=&quot;h-auto w-11/12 mx-auto xl:w-3/5 lg:w-3/4 md:w-10/12 md:ml-0 lg:ml-6 xl:ml-10 py-8 flex flex-col font-regularMontserrat min-h-64&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@class=&quot;group&quot;]/div[@class=&quot;slide relative border px-5 rounded-md w-28 md:w-auto md:mx-2 xl:w-28 text-center text-base&quot;]</value>
+      <webElementGuid>40f54ebd-6f2b-4ad2-90d8-b95ac2f557a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>a9f36d7f-7715-4a17-a22a-720d30513969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[98]</value>
+      <webElementGuid>db9773dd-6422-449e-a9d5-0b34c1b53d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salva configurazione'])[1]/preceding::div[57]</value>
+      <webElementGuid>cd8e0a20-29f1-4fff-9a75-6ab616726111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::div[59]</value>
+      <webElementGuid>a8c9b733-c2e0-482b-b1e7-b83868f14480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>f22256fb-51f9-459a-9b9f-9b0a3f5cdda1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Whatsapp' or . = 'Whatsapp')]</value>
+      <webElementGuid>8b73fa70-cd7e-404f-8ef8-60d670f1a407</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

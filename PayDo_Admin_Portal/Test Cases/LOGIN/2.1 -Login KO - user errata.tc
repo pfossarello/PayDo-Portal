@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.1 -Login KO - user errata</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1078e81a-5880-4926-ae75-ffa1098a6885</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8 - Creazione nuovo utente AdminPayDo con mail in formato errato - errore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7105198-ae4a-4584-963e-d26a53b4de3c</testCaseGuid>
+</TestCaseEntity>

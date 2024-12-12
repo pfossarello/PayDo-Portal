@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>colore_tema</name>
+   <tag></tag>
+   <elementGuidId>b7884c1d-282f-4c5d-838a-0311975228d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(@class, 'group') and contains(@class, 'cursor-pointer') and contains(@class, 'w-14') and contains(@class, 'h-8') and contains(@class, 'rounded-md')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d3a58f01-a2ea-4086-b9fa-26908813cdfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-10 absolute top-2 left-2 right-2 bottom-2 group-hover:bg-skin-fillTo label-checked:bg-skin-fillTo opacity-10 cursor-pointer ease-linear transition-all duration-150</value>
+      <webElementGuid>6d415a76-e8ea-489b-a110-3fe2d88788a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;md:w-1/2 w-full flex flex-col h-auto&quot;]/div[@class=&quot;flex flex-col p-4 lg:py-10 lg:px-14 lg:3/5 md:w-5/6 w-full text-md font-regular xl:w-9/12 xl:py-10 xl:px-16&quot;]/div[@class=&quot;space-y-5&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;relative group rounded-md w-28 mx-2 text-center text-base&quot;]/label[@class=&quot;h-full flex flex-col items-center px-3 py-6 bg-white border rounded-md border-skin-borderBtnRadio&quot;]/div[@class=&quot;z-10 absolute top-2 left-2 right-2 bottom-2 group-hover:bg-skin-fillTo label-checked:bg-skin-fillTo opacity-10 cursor-pointer ease-linear transition-all duration-150&quot;]</value>
+      <webElementGuid>3f7b035a-ca00-4767-a34e-a983e3567e7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div/div[2]/div/div/div[9]/div/label/div</value>
+      <webElementGuid>431a794b-39bb-43a5-97ae-399359ca21eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/label/div</value>
+      <webElementGuid>d265664d-b792-425d-85ff-cd81c0e0c961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div/div/div[2]/div/label/div</value>
+      <webElementGuid>67bcff0d-73d0-4e68-8b51-0f47461583c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>5151916d-6337-4ba4-9c49-0ad5a2213219</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

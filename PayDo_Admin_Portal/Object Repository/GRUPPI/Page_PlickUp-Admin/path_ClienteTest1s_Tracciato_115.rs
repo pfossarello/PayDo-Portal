@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_ClienteTest1s_Tracciato_115</name>
+   <tag></tag>
+   <elementGuidId>dd14fc1e-10c7-4026-aae0-75eefe4f5264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Tracciato_115</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Tracciato_115']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e17038a0-711e-4be6-b4d2-527a3ce2b43b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Tracciato_115</value>
+      <webElementGuid>77ce6d44-379e-4f71-8bb0-cf845fc7c513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Tracciato 115</value>
+      <webElementGuid>b3027719-4c08-4d83-b559-83be8ff25cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M547.049-1512.032h-6.167a4.733,4.733,0,0,1-4.728-4.728v-9.251a4.734,4.734,0,0,1,4.728-4.729h6.167a4.734,4.734,0,0,1,4.728,4.729v9.251A4.733,4.733,0,0,1,547.049-1512.032Zm-6.167-17.848a3.873,3.873,0,0,0-3.869,3.869v9.251a3.874,3.874,0,0,0,3.869,3.869h6.167a3.873,3.873,0,0,0,3.868-3.869v-9.251a3.872,3.872,0,0,0-3.868-3.869Z</value>
+      <webElementGuid>ed41880d-849e-4705-a581-dcb83b74c330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#38719a</value>
+      <webElementGuid>68eb9a9b-cdc1-4ae7-8e20-278d1bd46d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;flex py-6 xl:flex-row flex-col items-start space-y-16 xl:space-x-12&quot;]/div[@class=&quot;w-full xl:w-1/2 space-y-4&quot;]/div[@class=&quot;-mt-8 -pt-2&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full relative&quot;]/table[@class=&quot;min-w-full table-auto px-2 text-skin-base relative&quot;]/tbody[@class=&quot;bg-white divide-y divide-skin-borderRowTable border border-skin-borderRowTable&quot;]/tr[@class=&quot;h-14&quot;]/td[@class=&quot;px-3 py-1 whitespace-nowrap text-skin-base font-regularMontserrat text-base&quot;]/div[@class=&quot;flex item-center justify-end w-auto space-x-4 pr-4&quot;]/button[@class=&quot;relative group&quot;]/div[@class=&quot;py-2 inline-block&quot;]/div[@class=&quot;group cursor-pointer relative text-center&quot;]/svg[@class=&quot;inline-block w-5 h-5&quot;]/g[@id=&quot;Raggruppa_69&quot;]/path[@id=&quot;Tracciato_115&quot;]</value>
+      <webElementGuid>a7a1f625-22b5-43f7-972b-3ef7062b6813</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Tracciato_115']</value>
+      <webElementGuid>8c289d38-4a4d-4bbd-b770-9eafaf07cbfe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

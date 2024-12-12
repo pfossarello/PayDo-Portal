@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 12 - Corretta creazione nuovo gruppo con un cliente associato e successiva eliminazione</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1698e7cc-9fdf-49cf-a61f-e2db0e25884c</testCaseGuid>
+</TestCaseEntity>

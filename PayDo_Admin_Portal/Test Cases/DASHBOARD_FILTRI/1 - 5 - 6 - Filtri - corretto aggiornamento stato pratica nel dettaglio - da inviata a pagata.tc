@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 5 - 6 - Filtri - corretto aggiornamento stato pratica nel dettaglio - da inviata a pagata</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d27bccee-878a-4666-82e4-878554862cfb</testCaseGuid>
+</TestCaseEntity>

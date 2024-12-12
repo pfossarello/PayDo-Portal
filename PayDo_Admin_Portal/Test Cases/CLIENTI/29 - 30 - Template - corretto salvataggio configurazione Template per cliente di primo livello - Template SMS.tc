@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>29 - 30 - Template - corretto salvataggio configurazione Template per cliente di primo livello - Template SMS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68f86825-e695-4935-81d9-e00f2040214a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>ef175f3c-dc71-4fbe-aefc-bf1d483a7073</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Elementi per pagina'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.relative.inline-flex.items-center.justify-center.pl-2 > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>72a5336f-1d23-4128-9630-6304dfd59d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>82298a80-1184-4866-a45b-57e9aa6cdccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>6.876</value>
+      <webElementGuid>b9f43dc7-77ad-4d55-9a57-dac7a723878a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>12.752</value>
+      <webElementGuid>5a1a11fa-8c41-4c5d-b881-780360405dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 6.876 12.752</value>
+      <webElementGuid>323eaee2-00ce-442e-a11e-0f5346c45e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;py-4 text-right flex space-x-12 justify-end items-center&quot;]/nav[@class=&quot;relative z-0 inline-flex&quot;]/button[@class=&quot;relative inline-flex items-center justify-center pl-2&quot;]/svg[1]</value>
+      <webElementGuid>22a73ad9-1e53-430e-a7da-d74760d55ee9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elementi per pagina'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>01f8da19-ee51-479b-8481-af26bf39942e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sasà@mobilesoft.it'])[1]/following::*[name()='svg'][16]</value>
+      <webElementGuid>85ecb9b5-3e09-4674-89fd-eac95941c872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>a1d4c71c-bb70-402d-b4dd-8b866914ccec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

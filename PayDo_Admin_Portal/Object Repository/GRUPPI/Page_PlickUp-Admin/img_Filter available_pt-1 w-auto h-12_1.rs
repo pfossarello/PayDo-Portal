@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Filter available_pt-1 w-auto h-12_1</name>
+   <tag></tag>
+   <elementGuidId>2cf5eb0f-5fab-474a-9ebf-494906a34846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rdl-4TkV9fApSIl3R1L7UyMDv-move-left > img.pt-1.w-auto.h-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='rdl-4TkV9fApSIl3R1L7UyMDv-move-left']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a4be65b3-99a4-4d1b-87bb-ae3c9cda482b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA4CAYAAABNGP5yAAAABHNCSVQICAgIfAhkiAAABJVJREFUaEPlm79TGkEUx3chZkyREf8C0aRKIxYZfzRidNJG/4JgIZlUHvYxRPtwVpmcBfgXiHXMeDSRVNEyhRH/gIwwKTRhuM3b5Q4WOLjfBxw74ww/lt33/ey7t+/tnRj50OJCNnKPqhmC0TqdDhMsFsWtDz5MbTgFNuzhsMOSIMVqGJ3BRBF+KHh/cJ5JCg6Hd/xzTwHoiL8BiymICYJQ+XsmOelYgcMBPAOgI/5ynIzF73E1DzYvU7uLmaRn85vl4okB3cTL4mZ5ISXJXgI4i6YjVVSbHUPhy5VSumwEwnUAvcRTY7wGcDqzewHTzKrCAQDOQ9SV1672jvRguArASLxPACC86DRCZIWEUy9LaQqo0VwDYEa8zwAqMB+9BKY4vWWMSWr1aj+nfeYKALPi/QSAMSqsXu3FvzxNx0NESRNSD7y0AYRNDYJjAFbE9wOAJvp0ejeHMHqtxYawEpqDIFlyBMCq+H4CoHO3QiD5tV/7G7YB2BHfbwAMwsxuSYsLCniBLQB2xQ8CgK9P3iUIwVn1UjiwDMCJ+EEAQBOlWki5rQdDVLAEwKn4dgCQGk/S7JDbphy/BBdneYC2C+gNyCVLZdMA3BDPAOx8TiOC36uGyfBadqyaG+DFz0qavr17GCqdTz/O6Y29eP0n8eifEp3+/Rc2BhPNLfEMgPApinCYZmMTJqb2tMt4VTEG4KZ4Tc2CcBiH/JyuDp+leSq22+A9PcAL8bwhzBvQA/jzuWEiwoysYOoKwGvxPktumY6vSHUBBFk8JTGfkn6A8JiuBwRdPAvEKUkrmVvzgJEQX9+FrtXVP2lcAqMgnq3+jpRABLFUGGOcYgBGRXzd/Q9h+yWsLA4RNIfpTYs7XL3mzu3Z6a3bKWo/o742d5vWCpxKRzBPBDoGVnyH+6s3ZjBsCbfq6t/AyseCuPKaB0D0p8GPJV7U/b+JyQvwAKkE76fonZowQSv0w0FwV7dt4IMfjF0A94+zQMhXZ0GF0BHnCF6Bm7OyuhW2RsYgQpjfkY4xqd+ZhjU/Kma2EpqHNfIAPhgGCULb+UMF4lyUj3MttUDQILRd97D9N12/wwOakbKZKAyzJ8Dutg2rS8te1fPRZvFjMtceXHWrwWH2BO1pFCj0G9c5vNYV3wiCelvOMEJQT5pons/2+nrM6y6+JwD65bBAUIXTg9Y4t5gVTEjiXHxDH8jo2gwPRQcVglrALYMA+pxRc8XrUgsQ7dfNZLWGALzyBCoAzmRf9Vqdzu8I1PIoCsE5xhVvfLcbWHXBaNX5H5gC4DaEBUHKtgQpaxQ6eoOIE3gEL68X5Y2GNg3ALQiLwud1gvGxkWEG319CdLugj74gpSYXxbclu+NZAuAGhMWUJIILbzODIUIjBZs2PoRI2e1izTIApxC8fkjKqifYAuAEQmAA2IUQKAB2IAQOgFUIgQRgBUJgAZiFEGgAZiAEHoARhJEA0AvCyADoBgH+fSar3ZsP7D9M8Olo2623ltIVAEStpq5u97edClsxRA8C1O0bVup2K/NZ6esLAGrQ0rb0XAmRZ8w4ohSclLBWBBr1/Q88Vk4G8bCNgwAAAABJRU5ErkJggg==</value>
+      <webElementGuid>40bc7287-f23c-4458-994e-8ff25b3e5c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logo</value>
+      <webElementGuid>3bb3e7dd-8814-4c2c-b21e-773df1ffc8a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pt-1 w-auto h-12</value>
+      <webElementGuid>ba0f83ef-77cc-45e1-963c-4926029c4848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rdl-4TkV9fApSIl3R1L7UyMDv-move-left&quot;)/img[@class=&quot;pt-1 w-auto h-12&quot;]</value>
+      <webElementGuid>10e2acea-a7bd-4acb-928e-a94ee7001fd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='rdl-4TkV9fApSIl3R1L7UyMDv-move-left']/img</value>
+      <webElementGuid>ea7b40fd-a90a-49e8-a123-5170af67514e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Logo'])[3]</value>
+      <webElementGuid>ebe128c8-5478-433b-a04e-c50c4d84cedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/img</value>
+      <webElementGuid>741c8663-ab6b-4f02-8718-5466f2b1710a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA4CAYAAABNGP5yAAAABHNCSVQICAgIfAhkiAAABJVJREFUaEPlm79TGkEUx3chZkyREf8C0aRKIxYZfzRidNJG/4JgIZlUHvYxRPtwVpmcBfgXiHXMeDSRVNEyhRH/gIwwKTRhuM3b5Q4WOLjfBxw74ww/lt33/ey7t+/tnRj50OJCNnKPqhmC0TqdDhMsFsWtDz5MbTgFNuzhsMOSIMVqGJ3BRBF+KHh/cJ5JCg6Hd/xzTwHoiL8BiymICYJQ+XsmOelYgcMBPAOgI/5ynIzF73E1DzYvU7uLmaRn85vl4okB3cTL4mZ5ISXJXgI4i6YjVVSbHUPhy5VSumwEwnUAvcRTY7wGcDqzewHTzKrCAQDOQ9SV1672jvRguArASLxPACC86DRCZIWEUy9LaQqo0VwDYEa8zwAqMB+9BKY4vWWMSWr1aj+nfeYKALPi/QSAMSqsXu3FvzxNx0NESRNSD7y0AYRNDYJjAFbE9wOAJvp0ejeHMHqtxYawEpqDIFlyBMCq+H4CoHO3QiD5tV/7G7YB2BHfbwAMwsxuSYsLCniBLQB2xQ8CgK9P3iUIwVn1UjiwDMCJ+EEAQBOlWki5rQdDVLAEwKn4dgCQGk/S7JDbphy/BBdneYC2C+gNyCVLZdMA3BDPAOx8TiOC36uGyfBadqyaG+DFz0qavr17GCqdTz/O6Y29eP0n8eifEp3+/Rc2BhPNLfEMgPApinCYZmMTJqb2tMt4VTEG4KZ4Tc2CcBiH/JyuDp+leSq22+A9PcAL8bwhzBvQA/jzuWEiwoysYOoKwGvxPktumY6vSHUBBFk8JTGfkn6A8JiuBwRdPAvEKUkrmVvzgJEQX9+FrtXVP2lcAqMgnq3+jpRABLFUGGOcYgBGRXzd/Q9h+yWsLA4RNIfpTYs7XL3mzu3Z6a3bKWo/o742d5vWCpxKRzBPBDoGVnyH+6s3ZjBsCbfq6t/AyseCuPKaB0D0p8GPJV7U/b+JyQvwAKkE76fonZowQSv0w0FwV7dt4IMfjF0A94+zQMhXZ0GF0BHnCF6Bm7OyuhW2RsYgQpjfkY4xqd+ZhjU/Kma2EpqHNfIAPhgGCULb+UMF4lyUj3MttUDQILRd97D9N12/wwOakbKZKAyzJ8Dutg2rS8te1fPRZvFjMtceXHWrwWH2BO1pFCj0G9c5vNYV3wiCelvOMEJQT5pons/2+nrM6y6+JwD65bBAUIXTg9Y4t5gVTEjiXHxDH8jo2gwPRQcVglrALYMA+pxRc8XrUgsQ7dfNZLWGALzyBCoAzmRf9Vqdzu8I1PIoCsE5xhVvfLcbWHXBaNX5H5gC4DaEBUHKtgQpaxQ6eoOIE3gEL68X5Y2GNg3ALQiLwud1gvGxkWEG319CdLugj74gpSYXxbclu+NZAuAGhMWUJIILbzODIUIjBZs2PoRI2e1izTIApxC8fkjKqifYAuAEQmAA2IUQKAB2IAQOgFUIgQRgBUJgAZiFEGgAZiAEHoARhJEA0AvCyADoBgH+fSar3ZsP7D9M8Olo2623ltIVAEStpq5u97edClsxRA8C1O0bVup2K/NZ6esLAGrQ0rb0XAmRZ8w4ohSclLBWBBr1/Q88Vk4G8bCNgwAAAABJRU5ErkJggg==' and @alt = 'Logo']</value>
+      <webElementGuid>85bf5c53-f78d-4789-a886-d386394d54da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

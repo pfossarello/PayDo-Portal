@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7 - 8 - corretto re-invio del Plick e verifica nel dettaglio</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5f1a65a-e323-4bce-bb55-1fae74c4fdb1</testCaseGuid>
+</TestCaseEntity>

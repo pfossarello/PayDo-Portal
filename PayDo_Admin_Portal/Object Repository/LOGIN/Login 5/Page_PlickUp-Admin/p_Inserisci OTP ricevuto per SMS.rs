@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Inserisci OTP ricevuto per SMS</name>
+   <tag></tag>
+   <elementGuidId>eea384fd-bc7a-436c-b7c2-61575435e19d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>07e493b4-ffe5-4b9a-bcdb-f6d8985eb5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inserisci OTP ricevuto per SMS</value>
+      <webElementGuid>eaa9b1b1-e5f9-49c2-b2fe-7f7591efe6cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen flex items-start xl:pt-22 justify-center py-10 px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-sm w-full&quot;]/div[@class=&quot;space-y-8 bg-skin-bgDefault p-5 shadow-sm text-center&quot;]/div[@class=&quot;py-3 text-center&quot;]/p[1]</value>
+      <webElementGuid>13cbc7d8-c339-4cdd-8c64-eaa045370f01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/p</value>
+      <webElementGuid>727c76e9-e6e4-4cd9-8ab8-51c6bee1253b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invia'])[1]/preceding::p[1]</value>
+      <webElementGuid>d77836e1-b681-423c-af3c-53bf6419d7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inserisci OTP ricevuto per SMS']/parent::*</value>
+      <webElementGuid>2ed5ae17-25c6-457c-b6d4-9abcad63c86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ea2ab201-9fdd-4414-a9f6-779e4de4a30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Inserisci OTP ricevuto per SMS' or . = 'Inserisci OTP ricevuto per SMS')]</value>
+      <webElementGuid>db447f2a-d7df-4924-b355-b28d59906e98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

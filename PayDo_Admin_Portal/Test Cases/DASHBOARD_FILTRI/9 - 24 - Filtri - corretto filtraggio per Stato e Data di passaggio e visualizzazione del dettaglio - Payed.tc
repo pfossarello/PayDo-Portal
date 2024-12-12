@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 24 - Filtri - corretto filtraggio per Stato e Data di passaggio e visualizzazione del dettaglio - Payed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>789c943a-f5ab-41a3-bfe3-d337f4a149ed</testCaseGuid>
+</TestCaseEntity>

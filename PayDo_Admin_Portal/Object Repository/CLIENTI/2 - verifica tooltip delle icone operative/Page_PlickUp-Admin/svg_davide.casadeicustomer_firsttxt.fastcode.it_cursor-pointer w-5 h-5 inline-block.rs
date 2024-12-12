@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_davide.casadeicustomer_firsttxt.fastcode.it_cursor-pointer w-5 h-5 inline-block</name>
+   <tag></tag>
+   <elementGuidId>a92127f3-22fa-4e52-a138-3242d9b4edf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Quence'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.inline-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>401cb0dd-b8a5-4bd8-8542-b7873c9f0158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>2b739d1c-3373-4a66-a9e7-f93cd21ea659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>5224977e-6c56-40ef-bb40-bf51bf5f7965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>2c41983e-b1ae-4a44-bac3-2596d720500e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 26 18</value>
+      <webElementGuid>0c083600-c921-4984-b284-47e8edb90e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block</value>
+      <webElementGuid>ea16d191-6a63-4577-a56a-ec8dc562257c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/div[@class=&quot;flex flex-col fixed top-0 w-full z-50&quot;]/header[@class=&quot;shadow-lg&quot;]/div[@class=&quot;sm:pl-10 pl-6 flex flex-wrap h-20 justify-between items-center bg-white border-b border-gray-200&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;w-24 h-20 bg-skin-bgBtnMenu felx items-center justify-center&quot;]/svg[@class=&quot;inline-block&quot;]</value>
+      <webElementGuid>fcc143c8-d14e-44f3-a5a5-bbb639e23355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quence'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>fd844232-399d-46b8-9239-822d414d64c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtri'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>47dbcece-a90a-4452-8e21-685d020d52d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identificativo'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>42d82f7a-bb51-423d-9604-d964ce0dc5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='davide.casadei+customer_first@txt.fastcode.it'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>7a1f1ac8-fe37-42d2-868d-c60e383d23a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FastBank'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b3ce0f73-3486-4e82-a7e0-bb73265bd9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Armenio'])[1]/preceding::*[name()='svg'][14]</value>
+      <webElementGuid>89b583f0-c4f9-4923-955c-888a2c481553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pirone'])[1]/preceding::*[name()='svg'][14]</value>
+      <webElementGuid>8d5e7111-2575-4660-ba6d-46196033f7aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 16 - Filtri - corretto filtraggio per Metodo di pagamento - FLOAPAY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>846bb15b-b0f8-47bf-966f-a8b11b0137df</testCaseGuid>
+</TestCaseEntity>

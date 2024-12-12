@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16 - 17 - Corretta modifica utente già registrato - disabilitazione utenza</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03b000b5-0295-4208-a927-36b438740f99</testCaseGuid>
+</TestCaseEntity>

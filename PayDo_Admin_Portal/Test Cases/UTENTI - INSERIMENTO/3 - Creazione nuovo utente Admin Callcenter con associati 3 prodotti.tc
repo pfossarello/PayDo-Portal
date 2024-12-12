@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3 - Creazione nuovo utente Admin Callcenter con associati 3 prodotti</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a8338ae-ef30-4744-8b29-898bdf12ea0f</testCaseGuid>
+</TestCaseEntity>

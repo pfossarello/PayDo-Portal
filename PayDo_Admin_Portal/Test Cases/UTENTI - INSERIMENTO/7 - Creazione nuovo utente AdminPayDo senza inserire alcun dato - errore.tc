@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7 - Creazione nuovo utente AdminPayDo senza inserire alcun dato - errore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e6baab1-91b0-4e49-ae88-8b0e07453918</testCaseGuid>
+</TestCaseEntity>

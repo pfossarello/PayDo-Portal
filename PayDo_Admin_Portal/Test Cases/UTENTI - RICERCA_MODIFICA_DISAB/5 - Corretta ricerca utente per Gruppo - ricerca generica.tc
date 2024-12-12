@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5 - Corretta ricerca utente per Gruppo - ricerca generica</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f20f871-147c-4a84-9dfe-7a911842b2b5</testCaseGuid>
+</TestCaseEntity>

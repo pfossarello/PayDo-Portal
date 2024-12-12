@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11 - Corretta modifica utente già registrato - cambio ruolo da Admin Callcenter a Operatore Callcenter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>106e9ef1-42e9-4ce9-b319-38bca72c2794</testCaseGuid>
+</TestCaseEntity>

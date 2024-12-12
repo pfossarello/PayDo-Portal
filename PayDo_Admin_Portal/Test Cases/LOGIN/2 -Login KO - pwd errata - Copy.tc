@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2 -Login KO - pwd errata - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34e261c6-94df-4f80-b5ac-c26d4ba958f4</testCaseGuid>
+</TestCaseEntity>

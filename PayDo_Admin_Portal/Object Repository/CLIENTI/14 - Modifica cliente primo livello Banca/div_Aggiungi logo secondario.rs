@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aggiungi logo secondario</name>
+   <tag></tag>
+   <elementGuidId>f1db0262-44d0-4b1c-be03-33818a44aafb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.border.rounded-md.h-36.py-6.flex.flex-col.justify-center.items-center.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/form/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42d7f8e4-b9ef-4c42-afce-e39d4d6857bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>42474df3-bbc4-4925-9d17-1a52b2b6ae2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>41585810-168b-4a0e-a4b1-2b119233ce62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border rounded-md h-36 py-6 flex flex-col justify-center items-center cursor-pointer</value>
+      <webElementGuid>26d22308-4391-4313-a2cc-d36014288c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Aggiungi logo secondario</value>
+      <webElementGuid>d7e4653e-689b-4899-a39a-a3f520ca445b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;md:w-1/2 w-full flex flex-col text-lg font-mediumMontserrat font-skin-base&quot;]/div[@class=&quot;flex space-y-6 flex-col p-4 lg:py-10 lg:px-14 lg:3/5 md:w-5/6 w-full text-base font-regular xl:w-9/12 xl:py-10 xl:px-16&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;border rounded-md h-36 py-6 flex flex-col justify-center items-center cursor-pointer&quot;]</value>
+      <webElementGuid>e4217bd5-ed38-4584-a73b-e075650f8b90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div/div/div/div[2]/div</value>
+      <webElementGuid>2579467a-4ec3-4d19-9280-651b13ea259d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[7]</value>
+      <webElementGuid>ff07594e-510c-435d-ad3b-c7b846d67bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i file supportati per i loghi devono essere di tipo .png'])[1]/preceding::div[1]</value>
+      <webElementGuid>3719b1ad-4304-4a8a-8f13-557914dbad2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='le dimensioni del file non devono superare 1MB'])[1]/preceding::div[1]</value>
+      <webElementGuid>7202c7a4-17d6-4468-bfa5-d3e2d1f820d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>21365538-86da-4f2b-9499-a2684ce994f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div</value>
+      <webElementGuid>ef95932c-6393-4f93-ad14-26adddf4dc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Aggiungi logo secondario' or . = ' Aggiungi logo secondario')]</value>
+      <webElementGuid>b8339cd4-665d-48b7-ba92-5695482d38f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

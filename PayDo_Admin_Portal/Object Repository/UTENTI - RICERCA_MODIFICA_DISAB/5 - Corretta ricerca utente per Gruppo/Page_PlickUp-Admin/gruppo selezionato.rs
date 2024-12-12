@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>gruppo selezionato</name>
+   <tag></tag>
+   <elementGuidId>f37455a8-77e2-4114-a691-dcbd63ce862b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div/form/div/div[3]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-hlgwow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>60a5a4bf-743d-4a6b-ab33-f11f42e28b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-hlgwow</value>
+      <webElementGuid>d90a423e-f637-43dd-8ce9-0831a7baed75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regular text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20&quot;]/div[@class=&quot;py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/3 md:w-1/2 p-2 w-full&quot;]/div[@class=&quot;undefined transition-all&quot;]/div[@class=&quot;z-10 flex flex-col justify-end relative cursor-pointer&quot;]/div[@class=&quot;h-11 py-2 block basic-single select-none transition-all no-scroll font-regularMontserrat text-md h-10 w-full rounded border border-skin-borderInput focus-within:border-skin-borderBtn focus:ring-1 outline-none duration-200 ease-in-out css-b62m3t-container&quot;]/div[@class=&quot;css-kgb00u-control&quot;]/div[@class=&quot;css-hlgwow&quot;]</value>
+      <webElementGuid>1302ac89-6464-4050-bb1b-5bd1c13c86ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerca per gruppoGruppo nuovissimo modificato</value>
+      <webElementGuid>17f9d10c-2248-47fa-a708-0086db14fdc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/form/div/div[3]/div/div/div/div/div</value>
+      <webElementGuid>232dad7a-1a94-45af-a193-f8d7010c2fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtri'])[1]/following::div[14]</value>
+      <webElementGuid>95691093-4b2f-4551-a0d9-8c1da738ab3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::div[16]</value>
+      <webElementGuid>67709665-97fa-4b7c-9e3f-aee9b2316b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div</value>
+      <webElementGuid>381e1f95-0dfc-4a7d-b8cf-f2d45725bf41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cerca per gruppoGruppo nuovissimo modificato' or . = 'Cerca per gruppoGruppo nuovissimo modificato')]</value>
+      <webElementGuid>62c3f58e-4386-41c7-a638-d88479f4ec9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/form/div/div[3]/div/div/div/div/div/div[3]</value>
+      <webElementGuid>6a6f85af-0e8a-4a32-a093-e1d155ca3e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gruppo nuovissimo modificato'])[1]/following::div[1]</value>
+      <webElementGuid>c55168ed-c541-46ca-a353-85fa6c692f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerca per gruppo'])[1]/following::div[2]</value>
+      <webElementGuid>a87793cf-d77f-4d2e-aee1-a023748438d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gabriele Gruppotest'])[1]/preceding::div[4]</value>
+      <webElementGuid>ab17284f-b150-4b14-8fd7-bf7ff39c5806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::div[5]</value>
+      <webElementGuid>30c643e6-e0d5-4b42-aa83-d673dd2810d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]</value>
+      <webElementGuid>2862644c-f64e-4544-8cef-8a16d2d61340</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

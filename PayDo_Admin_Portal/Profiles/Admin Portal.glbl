@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Admin Portal</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>nomegruppo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Nome_general</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Cognome_general</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Ruolo_general</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>test</description>
+      <initValue>'https://server.test.plickup.eu/api/v1'</initValue>
+      <name>Path</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Id passato a Invia RTP</description>
+      <initValue>'&quot;&quot;'</initValue>
+      <name>Id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Response della Create RTP</description>
+      <initValue>'&quot;&quot;'</initValue>
+      <name>ResponseRTP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'+39'</initValue>
+      <name>areaCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>ResponseDettaglioRTP</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

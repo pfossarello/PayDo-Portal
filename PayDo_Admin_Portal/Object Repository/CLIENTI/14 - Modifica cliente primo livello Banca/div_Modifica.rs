@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Modifica</name>
+   <tag></tag>
+   <elementGuidId>556bb5ee-5eee-4860-80de-0564935c4c56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.group.relative.flex.px-2 > div.py-2.inline-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr/td[6]/div/a/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d41dab14-f278-4aa6-81d4-0297dc738140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-2 inline-block</value>
+      <webElementGuid>11456fe2-1036-4a11-8b72-f4e43c54f219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Modifica</value>
+      <webElementGuid>fe500444-8f96-4f13-972e-165f97b05c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full relative&quot;]/table[@class=&quot;min-w-full table-auto px-2 text-skin-base relative&quot;]/tbody[@class=&quot;bg-white divide-y divide-skin-borderRowTable border border-skin-borderRowTable&quot;]/tr[@class=&quot;h-14&quot;]/td[@class=&quot;px-3 py-1 whitespace-nowrap text-skin-base font-regularMontserrat text-base&quot;]/div[@class=&quot;flex justify-end items-center pr-5&quot;]/a[1]/button[@class=&quot;group relative flex px-2&quot;]/div[@class=&quot;py-2 inline-block&quot;]</value>
+      <webElementGuid>d27abab7-2047-47e6-89b4-05395ab5bc48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr/td[6]/div/a/button/div</value>
+      <webElementGuid>1022484b-4af6-4ed5-806f-46ea90e8afa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test1731411876891@example.com'])[1]/following::div[2]</value>
+      <webElementGuid>ac57f539-92cb-4d49-9ca8-952c7b0b1fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ciUoDe'])[1]/following::div[2]</value>
+      <webElementGuid>3b9dddf3-bc28-43d4-a3e1-c162b4d30fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DGGFbX'])[1]/preceding::div[21]</value>
+      <webElementGuid>36a0bf04-8bfd-4161-aa3e-4ee0e2e12267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test1731411798021@example.com'])[1]/preceding::div[21]</value>
+      <webElementGuid>6b9638c6-b197-4fd1-8535-cb3c3011d063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>dbea9926-0f71-4741-aebb-3db6a6f2e8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Modifica' or . = 'Modifica')]</value>
+      <webElementGuid>2ae8e2bb-6713-4b2c-9116-f28e2d0845e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

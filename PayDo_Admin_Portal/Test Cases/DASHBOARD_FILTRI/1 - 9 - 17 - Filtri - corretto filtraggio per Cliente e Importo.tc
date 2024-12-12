@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 9 - 17 - Filtri - corretto filtraggio per Cliente e Importo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80aea433-a624-47ba-9702-692d4ebce34f</testCaseGuid>
+</TestCaseEntity>

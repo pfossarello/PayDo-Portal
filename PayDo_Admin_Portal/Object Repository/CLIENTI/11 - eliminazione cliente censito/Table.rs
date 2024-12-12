@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table</name>
+   <tag></tag>
+   <elementGuidId>545d6cb0-2a95-4e6f-8a41-ed7d8e1cb24f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.overflow-x-auto.px-1.py-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f6108de-ca29-44f3-bf18-833982247025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overflow-x-auto px-1 py-4</value>
+      <webElementGuid>55914746-bdfb-4fa6-aea6-ae39760ee6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NomeP.IVAEmailTelefonoLivelloDGGFbX55916513492test1731411798021@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminawHSnBX40408266643test1731410304040@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminaeee431414124eee@eee.com+39 352 3525231 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminajhQVhB43312247090test1731410192703@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminaFastBank1234567davide.casadei+customer_first@txt.fastcode.it+39 340 60570961 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloElimina</value>
+      <webElementGuid>9c56889c-409c-43bd-884b-328a7f4c37ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]</value>
+      <webElementGuid>1ae2e823-3acc-42f5-902f-1c57ea5149b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div</value>
+      <webElementGuid>6a1cc7ae-362f-44ec-b7b5-ca0138502621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerca cliente per nome'])[1]/following::div[3]</value>
+      <webElementGuid>9ac97a0b-01dd-4b61-af66-e49cf1cd91c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtri'])[1]/following::div[6]</value>
+      <webElementGuid>f3b85bc6-587a-4347-ad4d-8d38a267fd35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>bbb4bbff-1404-4e46-906b-8ba541593e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NomeP.IVAEmailTelefonoLivelloDGGFbX55916513492test1731411798021@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminawHSnBX40408266643test1731410304040@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminaeee431414124eee@eee.com+39 352 3525231 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminajhQVhB43312247090test1731410192703@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminaFastBank1234567davide.casadei+customer_first@txt.fastcode.it+39 340 60570961 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloElimina' or . = 'NomeP.IVAEmailTelefonoLivelloDGGFbX55916513492test1731411798021@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminawHSnBX40408266643test1731410304040@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminaeee431414124eee@eee.com+39 352 3525231 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminajhQVhB43312247090test1731410192703@example.com+39 329 76562341 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloEliminaFastBank1234567davide.casadei+customer_first@txt.fastcode.it+39 340 60570961 °ModificaAbilitazioniImporta fileTemplateAggiungi 2° livelloClienti 2° livelloElimina')]</value>
+      <webElementGuid>54584e81-2230-454d-a336-035945a293e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

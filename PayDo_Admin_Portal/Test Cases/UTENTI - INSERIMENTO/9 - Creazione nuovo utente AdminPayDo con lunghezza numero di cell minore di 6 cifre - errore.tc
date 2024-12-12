@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - Creazione nuovo utente AdminPayDo con lunghezza numero di cell minore di 6 cifre - errore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e281b102-2d25-4b8c-9359-0faf5fcb36f2</testCaseGuid>
+</TestCaseEntity>

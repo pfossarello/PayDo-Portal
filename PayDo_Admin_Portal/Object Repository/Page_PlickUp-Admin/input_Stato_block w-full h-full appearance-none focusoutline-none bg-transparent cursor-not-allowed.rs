@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Stato_block w-full h-full appearance-none focusoutline-none bg-transparent cursor-not-allowed</name>
+   <tag></tag>
+   <elementGuidId>51210186-20d1-495d-9adf-27c8b0cdcab3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>320fb1fe-736e-4211-ab5a-980f3db5665a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full h-full appearance-none focus:outline-none bg-transparent cursor-not-allowed </value>
+      <webElementGuid>cbd4a58f-34d1-48b0-bdeb-a19e109c709b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>d002e209-2215-493b-975c-ae91d616c582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regularMontserrat text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20 relative&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/4 md:w-1/2 p-2 w-full&quot;]/label[1]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/div[@class=&quot;opacity-60 relative font-regularMontserrat text-md h-10 w-full rounded border border-skin-borderInput focus-within:border-skin-borderBtn focus:ring-1 outline-none py-1 px-3 leading-8 transition-colors duration-200 ease-in-out&quot;]/input[@class=&quot;block w-full h-full appearance-none focus:outline-none bg-transparent cursor-not-allowed&quot;]</value>
+      <webElementGuid>f43d0e46-380f-481c-af7b-64ae565d7d07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[4]</value>
+      <webElementGuid>1c5f506f-23f2-4361-bfad-5ad5a06c83c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/form/div/div[4]/label/div/div/div/input</value>
+      <webElementGuid>1a9a75c3-39d9-42c5-954a-b9b0f9789f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/div/div/div/input</value>
+      <webElementGuid>21496454-7dd9-46ee-a0bd-130ceeea49a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

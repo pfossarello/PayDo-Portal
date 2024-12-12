@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 15 - Filtri - corretto filtraggio per Metodo di pagamento - PAYPALSUBSCRIPTION</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f10c184-5489-49f8-824f-2dd97af7946a</testCaseGuid>
+</TestCaseEntity>

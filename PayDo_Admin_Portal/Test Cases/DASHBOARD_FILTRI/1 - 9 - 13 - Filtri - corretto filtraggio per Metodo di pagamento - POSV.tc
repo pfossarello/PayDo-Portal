@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 9 - 13 - Filtri - corretto filtraggio per Metodo di pagamento - POSV</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2cca237c-f25b-4c72-a423-afde8534fa94</testCaseGuid>
+</TestCaseEntity>

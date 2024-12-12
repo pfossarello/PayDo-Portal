@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_IMgKTZ_inline-block w-5 h-5</name>
+   <tag></tag>
+   <elementGuidId>19b9c4eb-efe4-45e5-b5f3-e99a090e4279</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@role='rowgroup']//tr[position()=1]//button[3]&#xd;
+&#xd;
+&#xd;
+&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ef852d3b-17b5-437c-8f2c-fcc4228c4568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>5176ed0a-3c4b-4539-940c-9b3398a8d77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>42d3e01c-0373-4440-8872-d0acd5bbbaa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>17.165</value>
+      <webElementGuid>faf8b544-3783-48a5-b0c6-eb342e485f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>17.165</value>
+      <webElementGuid>9136811e-c9a9-4012-b759-97d05c34106f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 17.165 17.165</value>
+      <webElementGuid>b9b0fb74-ccc8-4cd6-8f64-598367f81f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block w-5 h-5</value>
+      <webElementGuid>8f806a54-e49b-45ee-9868-7101febe543e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;flex py-6 xl:flex-row flex-col items-start space-y-16 xl:space-x-12&quot;]/div[@class=&quot;w-full xl:w-2/6 space-y-4&quot;]/div[@class=&quot;-mt-8 -pt-2&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full relative&quot;]/table[@class=&quot;min-w-full table-auto px-2 text-skin-base relative&quot;]/tbody[@class=&quot;bg-white divide-y divide-skin-borderRowTable border border-skin-borderRowTable&quot;]/tr[@class=&quot;h-14&quot;]/td[@class=&quot;px-3 py-1 whitespace-nowrap text-skin-base font-regularMontserrat text-base&quot;]/div[@class=&quot;flex item-center justify-end w-auto space-x-4 pr-4&quot;]/button[@class=&quot;relative group&quot;]/div[@class=&quot;py-2 inline-block&quot;]/div[@class=&quot;group cursor-pointer relative text-center&quot;]/svg[@class=&quot;inline-block w-5 h-5&quot;]</value>
+      <webElementGuid>4bb33205-9502-4d80-b53a-13c22f542673</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

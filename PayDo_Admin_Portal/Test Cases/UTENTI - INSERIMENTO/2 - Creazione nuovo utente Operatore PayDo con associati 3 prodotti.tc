@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2 - Creazione nuovo utente Operatore PayDo con associati 3 prodotti</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd2c1871-9e97-415d-a245-c764826c4edc</testCaseGuid>
+</TestCaseEntity>

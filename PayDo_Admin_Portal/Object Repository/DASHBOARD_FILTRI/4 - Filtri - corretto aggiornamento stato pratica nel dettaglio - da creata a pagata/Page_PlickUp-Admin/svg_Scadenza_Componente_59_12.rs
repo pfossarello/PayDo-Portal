@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Scadenza_Componente_59_12</name>
+   <tag></tag>
+   <elementGuidId>a36a5b89-f37a-4d6f-a67b-cdf257f7899b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Scadenza'])[1]/following::*[name()='svg'][8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mr-4.flex.flex-col.items-center.justify-center.space-y-2.undefined > #Componente_59_12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>775da512-e31e-48b7-8d9a-5e456551d10a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Componente_59_12</value>
+      <webElementGuid>f098ca65-18b1-4796-a2cf-0e11b1e0bc68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Componente 59 \u2013 12</value>
+      <webElementGuid>ad12b3ff-599b-40cd-a058-27d1db48d24a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>ca2e7604-3624-4903-afb6-2767f650d780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18.977</value>
+      <webElementGuid>d8dc9606-d4c8-4b53-b50a-bd32643d102a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18.06</value>
+      <webElementGuid>45ef69fe-b1ed-404b-a7c3-a389d996d6a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 18.977 18.06</value>
+      <webElementGuid>dd476a1b-370f-48a4-b819-e5f4ca5f5b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-14 h-14 inline-block</value>
+      <webElementGuid>e99f7e7f-c801-4c7f-bf60-9022a09c12c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full relative&quot;]/table[@class=&quot;min-w-full table-auto px-2 text-skin-base relative&quot;]/tbody[@class=&quot;bg-white divide-y divide-skin-borderRowTable border border-skin-borderRowTable&quot;]/tr[@class=&quot;container&quot;]/td[1]/div[@class=&quot;mx-auto relative&quot;]/div[@class=&quot;grid grid-cols-3 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-8&quot;]/div[@class=&quot;flex pt-4 md:px-2 xl:px-4 items-center&quot;]/div[@class=&quot;mr-4 flex flex-col items-center justify-center space-y-2 undefined&quot;]/svg[@id=&quot;Componente_59_12&quot;]</value>
+      <webElementGuid>f6679830-2497-4ae0-9c0a-c4699f35b6da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scadenza'])[1]/following::*[name()='svg'][8]</value>
+      <webElementGuid>7c5f0f4d-7e92-4593-b791-ff836137a21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimo stato'])[1]/following::*[name()='svg'][9]</value>
+      <webElementGuid>ed607353-aef2-4ea1-9114-515a2f58a20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importo'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>e1bfd167-2d8e-4f10-a62a-bd90a666aaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scadenza'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>08157bb2-41d3-4ecd-8dc1-85407457ad3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'Componente_59_12']</value>
+      <webElementGuid>6dd84212-8fee-4fbc-bf20-42d42bf3f447</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Campo ricerca Lista clienti associati</name>
+   <tag></tag>
+   <elementGuidId>e681e2e0-e8fa-4a62-b12f-5befdfd20a10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='rdl-list-box rdl-selected']//div[@class='rdl-filter-container']//input[@class='rdl-filter' and @data-key='selected']&#xd;
+&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#rdl-vDxxqNiQo3P3zRorfXVyD-filter-available</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Filter available&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1aaa9212-4a5a-48b0-9322-63f82ab75f41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rdl-filter</value>
+      <webElementGuid>9eb65c63-a462-4822-842c-d7d9c56104c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>available</value>
+      <webElementGuid>e8a2c989-98f8-4d88-96ed-3f23ace833ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rdl-vDxxqNiQo3P3zRorfXVyD-filter-available</value>
+      <webElementGuid>06c93d40-89ba-4809-a09d-badeb0ceb104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cerca cliente</value>
+      <webElementGuid>46742f75-9125-46e5-adfb-f9f5fcd26008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c6c7eba6-a569-442d-b453-ec3971499bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rdl-vDxxqNiQo3P3zRorfXVyD-filter-available&quot;)</value>
+      <webElementGuid>89a153a3-2d98-4feb-91ee-1d050759b1cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='rdl-vDxxqNiQo3P3zRorfXVyD-filter-available']</value>
+      <webElementGuid>aea912b9-56e2-44cf-af48-9f468e4cd533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rdl-vDxxqNiQo3P3zRorfXVyD']/div/div/input</value>
+      <webElementGuid>a7423f30-f7db-45ec-b312-8bf1c28ca10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/input</value>
+      <webElementGuid>4acda408-fd5e-4841-8eb2-722abef59937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'rdl-vDxxqNiQo3P3zRorfXVyD-filter-available' and @placeholder = 'Cerca cliente' and @type = 'text']</value>
+      <webElementGuid>c4fe5806-1981-40fd-a8bc-eef06b7c5ccb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

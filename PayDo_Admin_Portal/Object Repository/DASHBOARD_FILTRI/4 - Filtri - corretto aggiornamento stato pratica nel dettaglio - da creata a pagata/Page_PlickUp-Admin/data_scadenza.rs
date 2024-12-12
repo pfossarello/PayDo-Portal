@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>data_scadenza</name>
+   <tag></tag>
+   <elementGuidId>6445a91f-d181-417b-ad09-5fcc5cc7981d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'sm:w-1/3') and contains(@class, 'bg-skin-bgDefault')]//label[text()='Scadenza']/following::p[contains(@class, 'text-base')][1]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fbc581a2-c2f4-46f8-8ffd-f60e111fa677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-regularMontserrat text-skin-base w-full break-all</value>
+      <webElementGuid>b42bf0f2-2a1c-4398-88a2-7f074550fb75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 18/11/2024</value>
+      <webElementGuid>3d87a1e2-89cc-4a20-b5b5-a173e568d334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full relative&quot;]/table[@class=&quot;min-w-full table-auto px-2 text-skin-base relative&quot;]/tbody[@class=&quot;bg-white divide-y divide-skin-borderRowTable border border-skin-borderRowTable&quot;]/tr[@class=&quot;container&quot;]/td[1]/div[@class=&quot;mx-auto relative&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;sm:w-1/3&quot;]/div[@class=&quot;h-full px-8 py-2 flex flex-col justify-around bg-row-info bg-no-repeat bg-bottom-custom bg-contain bg-16&quot;]/div[@class=&quot;flex justify-around&quot;]/div[@class=&quot;w-2/3 pl-6&quot;]/p[@class=&quot;text-base font-regularMontserrat text-skin-base w-full break-all&quot;]</value>
+      <webElementGuid>e0009dba-4c98-4198-93ad-4f3b4f44bdc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr[2]/td/div/div[2]/div/div[2]/div/div[3]/div[2]/p</value>
+      <webElementGuid>f96336cc-f0ba-4c1f-b079-fc31d5af5f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimo stato'])[2]/following::p[1]</value>
+      <webElementGuid>5c2b5ea1-7fe5-4139-bb3f-bad003e38373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stato'])[3]/following::p[2]</value>
+      <webElementGuid>df6166ab-edc4-4b5c-8676-e96f35027e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ricevente'])[2]/preceding::p[1]</value>
+      <webElementGuid>6b1a903d-83ab-4be4-b6cf-d8392ac942ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email ricevente'])[1]/preceding::p[2]</value>
+      <webElementGuid>782d476c-9415-45f4-b217-b5b9fadb82da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/p</value>
+      <webElementGuid>64b1a79c-add2-4e5e-a38e-28aeb3211bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' 18/11/2024' or . = ' 18/11/2024')]</value>
+      <webElementGuid>e9085050-3aac-4d9e-ab97-fb2c7ead5319</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 9 - 11 - Aggiunta ed eliminazione nuovo cliente primo livello Corporate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f02076dd-f914-4655-8a59-9ae52e12d476</testCaseGuid>
+</TestCaseEntity>

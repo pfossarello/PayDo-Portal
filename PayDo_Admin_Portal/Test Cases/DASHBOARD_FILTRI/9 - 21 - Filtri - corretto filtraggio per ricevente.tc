@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 21 - Filtri - corretto filtraggio per ricevente</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2de40581-4aa9-413f-8f7d-972ea64da4fc</testCaseGuid>
+</TestCaseEntity>

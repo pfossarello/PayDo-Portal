@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 6-7 - navigazione tra pagine e impostazione elementi visibili per pagina</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64c182a6-297d-45e1-b990-3b6c3f89db1c</testCaseGuid>
+</TestCaseEntity>

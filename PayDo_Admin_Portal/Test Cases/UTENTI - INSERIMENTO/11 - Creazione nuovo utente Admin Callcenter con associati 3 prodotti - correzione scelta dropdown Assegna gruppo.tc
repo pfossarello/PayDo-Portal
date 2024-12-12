@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11 - Creazione nuovo utente Admin Callcenter con associati 3 prodotti - correzione scelta dropdown Assegna gruppo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba1748a8-9974-4de2-a71d-9568c345110e</testCaseGuid>
+</TestCaseEntity>

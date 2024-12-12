@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PlickUp</name>
+   <tag></tag>
+   <elementGuidId>6e312914-d6ed-4a75-8c8c-95bbebe31752</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>845588c2-c35c-4358-9c6e-64414f9f1d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-skin-borderBtnRadio flex  h-24 items-center z-30 px-5 text-skin-base cursor-pointer</value>
+      <webElementGuid>9d6c6112-0ab1-46e7-8397-67dc44980b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PlickUp</value>
+      <webElementGuid>978a1dbe-52e2-4887-a060-ed95eb265f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;flex items-start justify-center px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-sm w-full&quot;]/div[@class=&quot;space-y-8 p-5 text-center&quot;]/div[@class=&quot;relative my-3 group&quot;]/div[@class=&quot;border border-skin-borderBtnRadio flex  h-24 items-center z-30 px-5 text-skin-base cursor-pointer&quot;]</value>
+      <webElementGuid>13e5602d-e193-475d-b99d-5eb379bbd534</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>8f9526b4-90e0-4489-9340-4b64c0439f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quence'])[1]/following::div[11]</value>
+      <webElementGuid>c882df2b-fc8c-463c-9b68-75502e50b448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::div[4]</value>
+      <webElementGuid>b6691d21-f3a2-4271-b88d-d3964eb17736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>727d5cdf-6f53-4ce8-aa8f-1041d9bbfc08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PlickUp' or . = 'PlickUp')]</value>
+      <webElementGuid>2bcadbca-805c-4a91-ae9e-eeb49fbbabdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

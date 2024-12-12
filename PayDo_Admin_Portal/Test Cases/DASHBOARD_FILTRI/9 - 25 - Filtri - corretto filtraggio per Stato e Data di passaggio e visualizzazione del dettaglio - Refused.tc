@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 25 - Filtri - corretto filtraggio per Stato e Data di passaggio e visualizzazione del dettaglio - Refused</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e8f8a53-3cdf-4e84-b183-99fcc3290add</testCaseGuid>
+</TestCaseEntity>

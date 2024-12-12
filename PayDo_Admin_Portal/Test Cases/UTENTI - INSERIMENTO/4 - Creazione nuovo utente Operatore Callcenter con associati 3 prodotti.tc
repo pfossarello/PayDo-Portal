@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4 - Creazione nuovo utente Operatore Callcenter con associati 3 prodotti</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e8368bc-7b6f-430c-b8d0-cbe52359750a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>24 - Eliminazione cliente secondo livello</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37c362b0-41c3-446f-8314-8fcfe3275ae7</testCaseGuid>
+</TestCaseEntity>

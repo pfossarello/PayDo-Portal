@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11 - eliminazione cliente censito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>733a7fae-23c4-4aa4-a949-b3afd8ea3e09</testCaseGuid>
+</TestCaseEntity>

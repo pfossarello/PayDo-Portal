@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test ID 2 - CreateRTP - areaCode 39</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>754971bd-0910-4b53-adfe-2d1d4adccfdf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1bb4a8b7-5c17-404b-96e8-4ad5fcb037d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1bb4a8b7-5c17-404b-96e8-4ad5fcb037d3</id>
+      <masked>false</masked>
+      <name>ResponseRTP</name>
+   </variable>
+</TestCaseEntity>

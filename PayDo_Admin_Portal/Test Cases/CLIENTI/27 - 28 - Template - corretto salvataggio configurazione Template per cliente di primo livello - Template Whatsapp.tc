@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>27 - 28 - Template - corretto salvataggio configurazione Template per cliente di primo livello - Template Whatsapp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d15ceccb-fe14-4f2a-9bf6-52b43ccf6af1</testCaseGuid>
+</TestCaseEntity>

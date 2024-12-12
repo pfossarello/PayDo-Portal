@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Allegati</name>
+   <tag></tag>
+   <elementGuidId>6559d7e1-cb64-4f2a-bf0f-9b030532db95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.mb-14 > p.text-base.font-skin-base.font-mediumMontserrat.uppercase</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/form/div/div/div[5]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a3a3d437-52de-48eb-b2b6-a149ea6f4b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-skin-base font-mediumMontserrat uppercase</value>
+      <webElementGuid>5ad005ae-a7d2-428c-b458-861ecaa329e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Allegati</value>
+      <webElementGuid>450e2d00-ce03-4a33-a37e-b3f506d519a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap mt-10 space-y-8 md:space-y-0&quot;]/div[@class=&quot;md:w-1/2 flex flex-col items-start h-auto w-full relative&quot;]/div[@class=&quot;flex mb-14&quot;]/p[@class=&quot;text-base font-skin-base font-mediumMontserrat uppercase&quot;]</value>
+      <webElementGuid>f0a55a62-3f4b-4d82-b086-463a2702bff7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div/div/div[5]/p</value>
+      <webElementGuid>a15a04db-540a-4e00-b735-59d3f9c27c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::p[17]</value>
+      <webElementGuid>bd6a4e90-426b-418c-bc26-b2788210f64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salva configurazione'])[1]/preceding::p[13]</value>
+      <webElementGuid>4b28e9c6-16b1-4078-a65a-5259c2ce7dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::p[13]</value>
+      <webElementGuid>1bf4b093-8bde-454e-920f-3e0afa97e3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Allegati']/parent::*</value>
+      <webElementGuid>31989286-f31a-4ec2-845b-cbf076455cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/p</value>
+      <webElementGuid>d6932d98-25df-4c50-95f3-92e459b4fcac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Allegati' or . = 'Allegati')]</value>
+      <webElementGuid>5a5e772a-f820-437c-b45b-46e6b1472711</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

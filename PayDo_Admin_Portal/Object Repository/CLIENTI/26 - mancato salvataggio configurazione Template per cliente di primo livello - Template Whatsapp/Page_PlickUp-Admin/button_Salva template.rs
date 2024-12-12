@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Salva template</name>
+   <tag></tag>
+   <elementGuidId>6e7e1498-7cf7-41ab-bf07-f718a55e8786</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51701007-2b18-4446-a66c-40fab5bf6a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ea957677-6630-40bd-8549-f8ce5e68d8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uppercase h-10 group relative w-full flex justify-center py-2 px-4 border border-transparent font-mediumMontserrat rounded-md text-white bg-skin-fillTo text-base focus:outline-none</value>
+      <webElementGuid>acf6b2dc-13fa-4caf-b6b4-ba2d39f69c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Salva template</value>
+      <webElementGuid>2cf0e00d-0c51-44ad-9ec9-e2a61c1a56f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[@class=&quot;space-y-14&quot;]/div[@class=&quot;flex justify-center items-center&quot;]/div[@class=&quot;w-1/4&quot;]/div[1]/button[@class=&quot;uppercase h-10 group relative w-full flex justify-center py-2 px-4 border border-transparent font-mediumMontserrat rounded-md text-white bg-skin-fillTo text-base focus:outline-none&quot;]</value>
+      <webElementGuid>27c3d057-d28b-488b-b1ab-ad3bd7d74382</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>0ec9172b-7f8e-4e0a-9933-1dfca85c4a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div[5]/div/div/button</value>
+      <webElementGuid>f6650783-ba95-4a66-8e83-c3d42050d6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::button[1]</value>
+      <webElementGuid>3f3a567a-64d1-40cb-9e2e-9f550605e597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FORMAT'])[1]/following::button[1]</value>
+      <webElementGuid>2ba6e677-9d6e-4454-807f-257559c19a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>66a1c3e1-587b-4c13-b417-8d9bf7516648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Salva template']/parent::*</value>
+      <webElementGuid>ca82928d-4a3e-430c-90a0-345ed89bc647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button</value>
+      <webElementGuid>eb37cd9c-1aca-419b-8c77-f186de1a67c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Salva template' or . = 'Salva template')]</value>
+      <webElementGuid>9fd18089-b584-4974-a6dd-98f46157f5b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

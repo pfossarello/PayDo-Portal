@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Expired</name>
+   <tag></tag>
+   <elementGuidId>ee5a7e5b-4d12-4ff5-abbd-cd3fb52dea07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/form/div/div[3]/div/div/div/span[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a7b29e05-12fb-4b62-af53-91f925336432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-regular text-base text-skin-base h-10 flex items-center p-2 cursor-pointer hover:bg-skin-fillTo hover:text-white</value>
+      <webElementGuid>9f4de392-56b2-4fbc-a7a5-31ae858672ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expired</value>
+      <webElementGuid>17128002-75df-4eec-91a4-41ed51813908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regularMontserrat text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20 relative&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/4 md:w-1/2 p-2 w-full&quot;]/div[1]/div[@class=&quot;focus-within:border-skin-borderBtn focus:ring-1 outline-none leading-8 transition-colors duration-200 ease-in-out relative bg-transparent font-regularMontserrat text-md h-10 w-full py-1 rounded border border-skin-borderInput&quot;]/div[@class=&quot;mt-2 shadow-md border rounded-lg w-full h-28 overflow-y-auto absolute z-50 bg-white&quot;]/span[@class=&quot;font-regular text-base text-skin-base h-10 flex items-center p-2 cursor-pointer hover:bg-skin-fillTo hover:text-white&quot;]</value>
+      <webElementGuid>412d8ebf-396f-4cd8-87e4-44d8f4db5e7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/form/div/div[3]/div/div/div/span[9]</value>
+      <webElementGuid>cdf8c653-0ab6-418a-8c90-e30dc95efc21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refused'])[1]/following::span[1]</value>
+      <webElementGuid>b65757a9-2327-4a68-b764-6fa448fcdf89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payed expired'])[1]/following::span[2]</value>
+      <webElementGuid>103850b7-9abf-45a1-91aa-90a115941c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autorizzata'])[1]/preceding::span[1]</value>
+      <webElementGuid>36600759-4e30-4cb6-9119-0034cff66dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture'])[1]/preceding::span[2]</value>
+      <webElementGuid>98b6fb5c-323b-466f-a34f-7d7e518984fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Expired']/parent::*</value>
+      <webElementGuid>9e27235f-7538-4887-bebc-8ff152479fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[9]</value>
+      <webElementGuid>5e849dd7-652d-403f-bc95-70d118bade01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Expired' or . = 'Expired')]</value>
+      <webElementGuid>bb678c7b-4e2a-421b-a712-b0b3932ab564</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

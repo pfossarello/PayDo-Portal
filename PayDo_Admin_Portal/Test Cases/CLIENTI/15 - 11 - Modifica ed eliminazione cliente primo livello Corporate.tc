@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15 - 11 - Modifica ed eliminazione cliente primo livello Corporate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ce21cde-9625-4031-94ad-256c1b46ae21</testCaseGuid>
+</TestCaseEntity>

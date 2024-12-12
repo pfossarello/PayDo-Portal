@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Callback AUTH</name>
+   <tag></tag>
+   <elementGuidId>ea925597-7738-44e3-b34c-424854d4d68b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/form/div/div[2]/div[3]/div/div[2]/div/div/div/div/div&#xd;
+&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>15321c4a-e37a-445b-8198-e0e6b5eb55c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slide relative border px-5 rounded-md w-28 md:w-auto md:mx-2 xl:w-28 text-center text-base group</value>
+      <webElementGuid>069e29c2-d788-43d2-8326-1c76c25f32d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Callback AUTH</value>
+      <webElementGuid>7df64803-cea2-4d10-8413-d36a4552f10b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap mt-10 space-y-8 md:space-y-0&quot;]/div[@class=&quot;md:w-1/2 flex flex-col items-start h-auto w-full relative&quot;]/div[@class=&quot;h-auto w-11/12 mx-auto xl:w-3/5 lg:w-3/4 md:w-10/12 md:ml-0 lg:ml-6 xl:ml-10 py-8 flex flex-col font-regularMontserrat&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[1]/div[@class=&quot;slide relative border px-5 rounded-md w-28 md:w-auto md:mx-2 xl:w-28 text-center text-base group&quot;]</value>
+      <webElementGuid>881a4f6c-8a72-4f3a-a604-9f8adf2da46c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div/div[2]/div[3]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>c045c3f0-ae98-458f-8171-0aa8522b05d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[151]</value>
+      <webElementGuid>81577539-ae39-4422-aa61-4a1d190a0d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salva configurazione'])[1]/preceding::div[4]</value>
+      <webElementGuid>4df54798-155e-4855-9016-23fb682b543a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::div[6]</value>
+      <webElementGuid>1f6361c0-47ec-4132-b4dc-872baa88bc9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>aa518162-2fdf-43a1-8d32-ee7f67257683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Callback AUTH' or . = 'Callback AUTH')]</value>
+      <webElementGuid>0155956a-3086-4004-9839-7fefd742ec36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

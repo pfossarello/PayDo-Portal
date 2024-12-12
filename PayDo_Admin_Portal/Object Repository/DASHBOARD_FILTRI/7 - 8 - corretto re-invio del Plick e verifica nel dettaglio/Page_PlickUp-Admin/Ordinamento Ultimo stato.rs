@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Ordinamento Ultimo stato</name>
+   <tag></tag>
+   <elementGuidId>b4c04002-04e7-4fc2-b4e9-ab2a15a2a26e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@role='columnheader' and contains(@class, 'group') and contains(@class, 'text-left')]//div[contains(@class, 'group cursor-pointer')]//span[text()='Ultimo stato']/following-sibling::span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>814c009a-2615-4e98-adb7-0901abf4da61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Componente_57_43</value>
+      <webElementGuid>8f38e908-c4cf-4852-8e4d-29fe1745aae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Componente 57 \u2013 43</value>
+      <webElementGuid>eee70b02-b637-4f74-be36-2d08fcbdede6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>e7694575-3746-4e14-80b3-117620329e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>15.908</value>
+      <webElementGuid>2fe2b48b-5828-4568-982f-19ada6e78f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>15.908</value>
+      <webElementGuid>0662793e-2562-485d-9cab-4662fce949d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 15.908 15.908</value>
+      <webElementGuid>207e5362-9f3a-431f-8943-a37c4e4092cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-5 h-5</value>
+      <webElementGuid>2ea1804a-1ccc-4ddc-962f-b949a1508065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regularMontserrat text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20 relative&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/4 md:w-1/2 p-2 w-full&quot;]/label[1]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/div[@class=&quot;relative font-regularMontserrat text-md h-10 w-full rounded border border-skin-borderInput focus-within:border-skin-borderBtn focus:ring-1 outline-none py-1 px-3 leading-8 transition-colors duration-200 ease-in-out&quot;]/span[@class=&quot;absolute z-30 bg-white rounded inset-y-0 right-0 pr-3 flex items-center text-sm leading-5 cursor-pointer&quot;]/svg[@id=&quot;Componente_57_43&quot;]</value>
+      <webElementGuid>661a280b-0b5c-4c50-b597-a3110cc9e19f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data passaggio di stato'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>f080b4ef-04be-48f2-b4f2-c57ce2e7a7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stato'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>095c42f5-8fe5-4be2-a098-636ed00acd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Codice identificativo'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b0c8da1e-95e7-475a-9cae-fe3dc7b86bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Causale'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>27985275-ee09-4293-b134-baa63dcef1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'Componente_57_43']</value>
+      <webElementGuid>5b7c8412-7fea-4787-89c6-2bcecc4ba5e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

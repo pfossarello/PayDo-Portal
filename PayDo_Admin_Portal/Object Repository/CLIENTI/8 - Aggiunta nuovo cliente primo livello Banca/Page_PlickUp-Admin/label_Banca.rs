@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Banca</name>
+   <tag></tag>
+   <elementGuidId>32fca2c9-8210-4be2-8aca-46a7675215f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.h-full.flex.flex-col.items-center.px-3.py-6.bg-white.border.rounded-md.border-skin-borderBtnRadio</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(@class, 'h-full') and contains(@class, 'flex-col') and contains(@class, 'border-skin-borderBtnRadio')]//p[text()='Banca']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b314a895-b48e-4da9-9d82-2ea1a8dde731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full flex flex-col items-center px-3 py-6 bg-white border rounded-md border-skin-borderBtnRadio</value>
+      <webElementGuid>3e04decd-9fb6-4b3f-9c22-0650109baba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Banca</value>
+      <webElementGuid>9d7a59b4-098e-4754-afca-d2db819a4228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;md:w-1/2 w-full flex flex-col h-auto&quot;]/div[@class=&quot;flex flex-col p-4 lg:py-10 lg:px-14 lg:3/5 md:w-5/6 w-full text-md font-regular xl:w-9/12 xl:py-10 xl:px-16&quot;]/div[@class=&quot;space-y-5&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;relative group rounded-md w-28 mx-2 text-center text-base&quot;]/label[@class=&quot;h-full flex flex-col items-center px-3 py-6 bg-white border rounded-md border-skin-borderBtnRadio&quot;]</value>
+      <webElementGuid>4a62d6fc-4465-4a77-9727-d6fdf442dcd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div/div[2]/div/div/div[9]/div/label</value>
+      <webElementGuid>d80a8d57-7a0c-414f-87c3-aeeb7eabb867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cliente 2° livello'])[2]/following::label[1]</value>
+      <webElementGuid>7c62bbf0-3ea2-4fd3-8a58-4022c972730f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[2]/following::label[1]</value>
+      <webElementGuid>4e6cfd20-8b43-4f59-8074-3c5ca1ed65ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aggiungi'])[1]/preceding::label[2]</value>
+      <webElementGuid>79894304-e310-4b19-ab9c-3950ad9b52f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::label[2]</value>
+      <webElementGuid>55440cc2-75dc-4d5d-bac2-c56412d260dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/label</value>
+      <webElementGuid>4a23eadc-b5f6-4805-8749-31611d7bfdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Banca' or . = 'Banca')]</value>
+      <webElementGuid>bb91a3b9-f28a-460d-81df-6db5001bb8c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Il campo  obbligatorio</name>
+   <tag></tag>
+   <elementGuidId>33c9b3a4-e3dd-48c1-b76a-416a26ff3461</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/form/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-sm.text-red-600.p-2.text-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7dbf2c5b-7f5f-407a-b6ad-56921cf9588e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm text-red-600 p-2 text-left</value>
+      <webElementGuid>686a1631-780a-41f9-be54-a6aaeeb477c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Il campo è obbligatorio</value>
+      <webElementGuid>daffdf7b-115b-4b77-b6a8-929290238702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen flex items-start xl:pt-22 justify-center py-10 px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-sm w-full&quot;]/div[@class=&quot;space-y-8 bg-skin-bgDefault p-5 shadow-sm text-center&quot;]/form[@class=&quot;mt-2 space-y-6 text-skin-base text-base&quot;]/div[@class=&quot;rounded-md -space-y-px&quot;]/div[@class=&quot;mb-4&quot;]/div[1]/p[@class=&quot;text-sm text-red-600 p-2 text-left&quot;]</value>
+      <webElementGuid>400a9ca6-7ecb-4174-9039-6a9dadb0b401</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/div/div/div/p</value>
+      <webElementGuid>1c52c028-7565-44cf-bb8a-e1a3b8261ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='accedi'])[1]/preceding::p[2]</value>
+      <webElementGuid>8e121389-b63f-47c7-92d2-b7bfb5743a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Il campo è obbligatorio']/parent::*</value>
+      <webElementGuid>ea4619e2-52f2-47de-a7ee-0881a76e017d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>3b9d2364-0233-4470-9539-41e955f26333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Il campo è obbligatorio' or . = 'Il campo è obbligatorio')]</value>
+      <webElementGuid>677ba06b-7a60-4ca9-ae2d-9a96b60fd646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

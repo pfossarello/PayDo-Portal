@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>26 - Template - mancato salvataggio configurazione Template per cliente di prim livello - Template Whatsapp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b202eaa-5403-46d0-a237-02dc8e2c8e43</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Data scadenza</name>
+   <tag></tag>
+   <elementGuidId>870d5303-c542-489d-8b85-02a3fcd9fa58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Data scadenza'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>31c4b4b4-30c3-492f-90e6-c27fe05d2fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Componente_57_43</value>
+      <webElementGuid>d7fbc828-af13-4517-acb8-6cf66e66a8e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Componente 57 \u2013 43</value>
+      <webElementGuid>a363605a-5f62-4549-80f5-35fcf310e6fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>0c10b2ae-3d37-4856-a50c-2b606336b241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>15.908</value>
+      <webElementGuid>2e4ffa23-f7b1-4326-9e59-d73965b4528f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>15.908</value>
+      <webElementGuid>ea06df1b-bc96-4fd0-aaba-0c5a47af298c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 15.908 15.908</value>
+      <webElementGuid>c40dd313-8958-439b-91e3-d36c113d1fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-5 h-5</value>
+      <webElementGuid>93382910-b5ee-4206-b8de-11602d6f6eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regularMontserrat text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20 relative&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/4 md:w-1/2 p-2 w-full&quot;]/label[1]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/div[@class=&quot;relative font-regularMontserrat text-md h-10 w-full rounded border border-skin-borderInput focus-within:border-skin-borderBtn focus:ring-1 outline-none py-1 px-3 leading-8 transition-colors duration-200 ease-in-out&quot;]/span[@class=&quot;absolute z-30 bg-white rounded inset-y-0 right-0 pr-3 flex items-center text-sm leading-5 cursor-pointer&quot;]/svg[@id=&quot;Componente_57_43&quot;]</value>
+      <webElementGuid>9439227d-9bad-40f9-bb14-dfb66ddc90b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data scadenza'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>f6c25761-2dac-46b4-8262-ca24c5bd3dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data creazione'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>94ab55f3-3a85-4cf1-b0ed-dcb45d927f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stato'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ab1de8c8-7d7b-495a-b114-3fbe56050455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data passaggio di stato'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>1ebac3eb-f438-4068-b5a9-a8703e795c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'Componente_57_43']</value>
+      <webElementGuid>69311047-ea15-4d8b-b933-1e6fbf271030</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

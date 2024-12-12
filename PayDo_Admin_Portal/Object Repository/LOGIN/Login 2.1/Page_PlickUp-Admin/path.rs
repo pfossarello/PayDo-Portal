@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>f4363d8c-fc4e-4f3a-b724-576849aa2205</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.cursor-pointer.w-4.h-4.text-white > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>7ff7f9e9-7df0-4897-8e78-8dda7b2930d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>be25254f-21b2-47f8-845a-7a40f8fe4057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>1c7bac66-2744-441d-90fe-3789e82c8c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6 18 18 6M6 6l12 12</value>
+      <webElementGuid>e88297a1-3cec-41cb-999b-831b4a78581d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen flex items-start xl:pt-22 justify-center py-10 px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-sm w-full&quot;]/div[@class=&quot;space-y-8 bg-skin-bgDefault p-5 shadow-sm text-center&quot;]/div[@class=&quot;alert-banner w-full flex justify-between shadow p-2 items-center bg-red-500 block&quot;]/svg[@class=&quot;cursor-pointer w-4 h-4 text-white&quot;]/path[1]</value>
+      <webElementGuid>b45512be-1be2-4b1f-ba4e-b6a9f1563dc1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

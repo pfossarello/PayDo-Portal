@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11 - corretta modifica di un gruppo presente</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd5817d6-fe31-4e12-ab33-e118360f7933</testCaseGuid>
+</TestCaseEntity>

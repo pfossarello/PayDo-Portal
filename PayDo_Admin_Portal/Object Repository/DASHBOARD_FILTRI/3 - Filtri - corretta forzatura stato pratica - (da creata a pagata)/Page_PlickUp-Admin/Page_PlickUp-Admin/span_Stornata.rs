@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Stornata</name>
+   <tag></tag>
+   <elementGuidId>ab0825d5-eed4-4487-8eaa-587a68e20198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/form/div/div[3]/div/div/div/span[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ff7a359-ef9a-4ef7-a3fd-82d411a53626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-regular text-base text-skin-base h-10 flex items-center p-2 cursor-pointer hover:bg-skin-fillTo hover:text-white</value>
+      <webElementGuid>6190cc94-b54b-481c-94ab-77a1ce87a0a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stornata</value>
+      <webElementGuid>0949f59b-1823-4c33-977b-6baa285bf486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regularMontserrat text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20 relative&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/4 md:w-1/2 p-2 w-full&quot;]/div[1]/div[@class=&quot;focus-within:border-skin-borderBtn focus:ring-1 outline-none leading-8 transition-colors duration-200 ease-in-out relative bg-transparent font-regularMontserrat text-md h-10 w-full py-1 rounded border border-skin-borderInput&quot;]/div[@class=&quot;mt-2 shadow-md border rounded-lg w-full h-28 overflow-y-auto absolute z-50 bg-white&quot;]/span[@class=&quot;font-regular text-base text-skin-base h-10 flex items-center p-2 cursor-pointer hover:bg-skin-fillTo hover:text-white&quot;]</value>
+      <webElementGuid>89ff7ed5-afd9-43c8-b371-2f4e803bae1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/form/div/div[3]/div/div/div/span[12]</value>
+      <webElementGuid>b09663e2-e82f-47e6-8ed3-7ec40b672263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture'])[1]/following::span[1]</value>
+      <webElementGuid>997383c4-d034-48f7-beae-2094b5b2a12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autorizzata'])[1]/following::span[2]</value>
+      <webElementGuid>4a10befa-3161-4346-8783-751697556d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancellata'])[1]/preceding::span[1]</value>
+      <webElementGuid>886f664a-3fb8-43ec-b79b-c1efced259ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data passaggio di stato'])[1]/preceding::span[2]</value>
+      <webElementGuid>4dce518c-896f-4960-90a6-b4d5d0761b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stornata']/parent::*</value>
+      <webElementGuid>77a8a743-2bdb-42b1-bc54-86be78808b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[12]</value>
+      <webElementGuid>5678f86c-7c38-46a1-8469-266648b91162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Stornata' or . = 'Stornata')]</value>
+      <webElementGuid>87a26b5d-c3ca-45b8-a584-688573b0173d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

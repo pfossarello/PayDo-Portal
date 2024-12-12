@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7 - Filtri - corretto re-invio Plickup</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a35f817-24fb-4faf-b6e2-f829751adf91</testCaseGuid>
+</TestCaseEntity>

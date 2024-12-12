@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 25.1 - Filtri - corretto filtraggio per Stato e Data di passaggio - Autorizzata - nessun risultato trovato</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f63afb2-da59-4289-bd7e-83e0933e6999</testCaseGuid>
+</TestCaseEntity>

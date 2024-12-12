@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5.1 - Corretta ricerca utente per Gruppo - post inserimento utente</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d33ce3bb-8716-4ad6-9640-6e0f1ea75b65</testCaseGuid>
+</TestCaseEntity>

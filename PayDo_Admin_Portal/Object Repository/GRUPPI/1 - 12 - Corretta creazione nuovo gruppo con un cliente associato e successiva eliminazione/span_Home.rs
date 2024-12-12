@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home</name>
+   <tag></tag>
+   <elementGuidId>c47a9d41-ff7d-4040-b308-94f9d3da30e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='mainMenu']/div/a[2]/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af5ee3d5-0d67-4f31-93e2-f2a257fa79b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-full group-hover:bg-skin-fillTo opacity-0 group-hover:opacity-10 h-16 w-16 absolute</value>
+      <webElementGuid>41363542-60ac-4e02-834b-135f7f8943c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainMenu&quot;)/div[@class=&quot;text-base flex flex-col items-center&quot;]/a[@class=&quot;py-4 group flex flex-col items-center justify-center text-base font-skin-base&quot;]/p[@class=&quot;cursor-pointer h-16 w-16 flex justify-center items-center relative&quot;]/span[@class=&quot;rounded-full group-hover:bg-skin-fillTo opacity-0 group-hover:opacity-10 h-16 w-16 absolute&quot;]</value>
+      <webElementGuid>6eefabef-08b0-4bb3-91e3-4bc53570f74d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='mainMenu']/div/a[2]/p/span</value>
+      <webElementGuid>d6ab4c53-8ea4-4463-b6f0-532950c407e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/p/span</value>
+      <webElementGuid>8c1fa55d-9ef6-42f8-86b5-3875c8840e8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

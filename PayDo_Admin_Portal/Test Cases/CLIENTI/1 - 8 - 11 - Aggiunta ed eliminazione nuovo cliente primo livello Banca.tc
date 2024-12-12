@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 8 - 11 - Aggiunta ed eliminazione nuovo cliente primo livello Banca</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>343dbdf4-bb08-49fe-91b1-053cb36c2e86</testCaseGuid>
+</TestCaseEntity>

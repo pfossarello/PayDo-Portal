@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>31bd9b91-27f3-4525-9e84-6fd47e151627</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.border.rounded-md.h-36.py-6.flex.flex-col.justify-center.items-center.cursor-pointer > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4dcee5a9-5faa-4d3a-a3a4-44693b9ef5fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>fd87e5d7-2507-4825-aa9f-e3ef87218d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>42.39</value>
+      <webElementGuid>72f81862-74fe-4df0-bdb8-5b26c92cff3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>42.39</value>
+      <webElementGuid>ad262746-9330-432e-8a90-204da7d93141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 42.39 42.39</value>
+      <webElementGuid>0a04a8e4-8152-4bf2-a809-bb82e6e2c1f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;md:w-1/2 w-full flex flex-col text-lg font-mediumMontserrat font-skin-base&quot;]/div[@class=&quot;flex space-y-6 flex-col p-4 lg:py-10 lg:px-14 lg:3/5 md:w-5/6 w-full text-base font-regular xl:w-9/12 xl:py-10 xl:px-16&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;border rounded-md h-36 py-6 flex flex-col justify-center items-center cursor-pointer&quot;]/svg[1]</value>
+      <webElementGuid>bc7cfba9-971b-43ce-bd31-807a2d9ce6a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>efb58829-9c50-493b-9f48-62a64ca6577b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i file supportati per i loghi devono essere di tipo .png'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>6bc3c213-c162-49ff-81c6-0e7cf52495f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='le dimensioni del file non devono superare 1MB'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>fe9c1c78-599f-424d-a5cc-bce3de5e812e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Quence_z-10 absolute top-3 left-3 right_821a3b</name>
+   <tag></tag>
+   <elementGuidId>9918f1b1-3abb-44cc-ac07-67da888fa45a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div[2]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76545202-00e5-4fe6-83a5-decefec065e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-10 absolute top-3 left-3 right-3 bottom-3 group-hover:bg-skin-fillTo label-checked:bg-skin-fillTo opacity-10 cursor-pointer</value>
+      <webElementGuid>e36dd118-7930-478e-9438-767857c2f472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;flex items-start justify-center px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-sm w-full&quot;]/div[@class=&quot;space-y-8 p-5 text-center&quot;]/div[@class=&quot;relative my-3 group&quot;]/div[@class=&quot;border border-skin-borderBtnRadio flex  h-24 items-center z-30 px-5 text-skin-base cursor-pointer&quot;]/div[@class=&quot;z-10 absolute top-3 left-3 right-3 bottom-3 group-hover:bg-skin-fillTo label-checked:bg-skin-fillTo opacity-10 cursor-pointer&quot;]</value>
+      <webElementGuid>71deb494-23a6-4fb7-b64b-f61340d55a96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>155e06b0-0c52-4602-ba38-8af86d5f0e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>a080ead0-dd1f-42d4-a541-7c59e8fd506a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

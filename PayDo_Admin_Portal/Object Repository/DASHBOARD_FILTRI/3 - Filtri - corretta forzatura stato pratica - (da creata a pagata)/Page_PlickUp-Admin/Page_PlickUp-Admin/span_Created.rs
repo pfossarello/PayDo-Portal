@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Created</name>
+   <tag></tag>
+   <elementGuidId>064eee47-5f2e-4cc6-b107-f526bf5d1c7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'lg:w-1/4') and contains(@class, 'md:w-1/2') and contains(@class, 'p-2') and contains(@class, 'w-full')]//div[contains(@class, 'focus-within:border-skin-borderBtn')]//span[contains(@class, 'font-regular') and contains(@class, 'text-base')][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3d65b90-7e86-4ac4-bef0-2ad52f746c8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-regular text-base text-skin-base h-10 flex items-center p-2 cursor-pointer hover:bg-skin-fillTo hover:text-white</value>
+      <webElementGuid>eaad0b06-53e9-408f-a520-0cbeb098b0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created</value>
+      <webElementGuid>8857866b-7dfc-4ee9-a64c-b890d794d269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regularMontserrat text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20 relative&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/4 md:w-1/2 p-2 w-full&quot;]/div[1]/div[@class=&quot;focus-within:border-skin-borderBtn focus:ring-1 outline-none leading-8 transition-colors duration-200 ease-in-out relative bg-transparent font-regularMontserrat text-md h-10 w-full py-1 rounded border border-skin-borderInput&quot;]/div[@class=&quot;mt-2 shadow-md border rounded-lg w-full h-28 overflow-y-auto absolute z-50 bg-white&quot;]/span[@class=&quot;font-regular text-base text-skin-base h-10 flex items-center p-2 cursor-pointer hover:bg-skin-fillTo hover:text-white&quot;]</value>
+      <webElementGuid>fd4532b9-9811-4b40-b611-7cb2b607be17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/form/div/div[3]/div/div/div/span[2]</value>
+      <webElementGuid>7c9d922a-ced0-4253-9392-8fdd821caad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nessuna opzione'])[1]/following::span[1]</value>
+      <webElementGuid>dbf798ac-e35c-4b8c-9723-e0adaaa93c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stato'])[1]/following::span[3]</value>
+      <webElementGuid>9ff0b9a0-15d0-4a77-9e42-8d1cb3e3182f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inviata'])[1]/preceding::span[1]</value>
+      <webElementGuid>906bedee-e60a-45f9-98e8-ed25b7c3a113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed'])[1]/preceding::span[2]</value>
+      <webElementGuid>111e2c15-a429-4193-a498-a071c9a11f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Created']/parent::*</value>
+      <webElementGuid>e83f9abf-d87b-4939-87c9-33eb94f655dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>59eedd59-cb56-4e32-9188-1146cf160b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Created' or . = 'Created')]</value>
+      <webElementGuid>e5eaff55-f2a7-4b6c-8623-23cf45a92eea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 18 - Filtri - corretto filtraggio per Importo minimo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a007a63-732c-47e2-895f-ace0f86a8e0c</testCaseGuid>
+</TestCaseEntity>

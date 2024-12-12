@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Incorrect username or password</name>
+   <tag></tag>
+   <elementGuidId>79f19def-157d-41f0-b0fe-00e5780c8e19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.flex.items-center.justify-between.w-full.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>59e85e6b-5630-4234-8564-a9a0f3cec468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-between w-full text-white</value>
+      <webElementGuid>d12f055f-9b9b-4b91-929d-d0ac6c367208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>232e3664-225c-48f0-9b74-c09021e93424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Incorrect username or password.</value>
+      <webElementGuid>8f63c5c2-41f6-412b-a610-8ed8a8b2ace2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen flex items-start xl:pt-22 justify-center py-10 px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-sm w-full&quot;]/div[@class=&quot;space-y-8 bg-skin-bgDefault p-5 shadow-sm text-center&quot;]/div[@class=&quot;alert-banner w-full flex justify-between shadow p-2 items-center bg-red-500 block&quot;]/label[@class=&quot;flex items-center justify-between w-full text-white&quot;]</value>
+      <webElementGuid>519ababb-6624-47df-8f6a-a96e98d3d0fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/label</value>
+      <webElementGuid>b9a05ee7-8790-4ce1-b5da-0a11ba13c10e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='accedi'])[1]/following::label[1]</value>
+      <webElementGuid>a12b8159-c984-4ec2-83b9-362239341f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Incorrect username or password.']/parent::*</value>
+      <webElementGuid>9dc3bfb9-f119-446f-93f6-0be474b921ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>322705f1-ef9e-4ad2-9abb-18f697df84cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'close' and (text() = 'Incorrect username or password.' or . = 'Incorrect username or password.')]</value>
+      <webElementGuid>b6145695-e51a-4c87-9b68-e223611ec619</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

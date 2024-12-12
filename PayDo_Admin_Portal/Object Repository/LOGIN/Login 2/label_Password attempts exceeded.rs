@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Password attempts exceeded</name>
+   <tag></tag>
+   <elementGuidId>68cf7508-0106-4c70-926a-b45a32b8435f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.flex.items-center.justify-between.w-full.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>39014e81-5ef6-4af7-903c-e3b74264937d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-between w-full text-white</value>
+      <webElementGuid>64b86c80-8caa-477a-86e7-9dcb9ce623bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>2aad50ba-121c-4cde-ae06-853d35442e2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password attempts exceeded</value>
+      <webElementGuid>78762169-e0ef-4d19-be7a-304c868abb9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen flex items-start xl:pt-22 justify-center py-10 px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-sm w-full&quot;]/div[@class=&quot;space-y-8 bg-skin-bgDefault p-5 shadow-sm text-center&quot;]/div[@class=&quot;alert-banner w-full flex justify-between shadow p-2 items-center bg-red-500 block&quot;]/label[@class=&quot;flex items-center justify-between w-full text-white&quot;]</value>
+      <webElementGuid>3d663ee6-8f72-456e-99f2-91e9b4ed19d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/label</value>
+      <webElementGuid>865f2ea3-b387-46bf-af4d-a179ced774d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='accedi'])[1]/following::label[1]</value>
+      <webElementGuid>10f62e6e-3b0d-4cbc-bb3f-9df9ae075299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password attempts exceeded']/parent::*</value>
+      <webElementGuid>e2b64c24-6cc3-4ec4-9900-c4f875f71edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>27ae728f-5b89-401a-96ed-f465ed973938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'close' and (text() = 'Password attempts exceeded' or . = 'Password attempts exceeded')]</value>
+      <webElementGuid>486adbc1-e59d-4b56-9cc2-d2303168b85f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

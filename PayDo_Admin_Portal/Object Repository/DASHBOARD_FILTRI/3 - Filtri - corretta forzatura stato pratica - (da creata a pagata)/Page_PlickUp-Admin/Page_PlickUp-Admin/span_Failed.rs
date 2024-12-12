@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Failed</name>
+   <tag></tag>
+   <elementGuidId>55ab373f-6d0f-42c4-8898-0f6366734ad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/form/div/div[3]/div/div/div/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0be32ddc-99d1-4b74-975d-d46857734375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-regular text-base text-skin-base h-10 flex items-center p-2 cursor-pointer hover:bg-skin-fillTo hover:text-white</value>
+      <webElementGuid>b7eef7b6-a5cc-4e91-b4ba-783690c4fd26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Failed</value>
+      <webElementGuid>5be5a29e-9ec2-425b-9c49-926978b25b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regularMontserrat text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20 relative&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/4 md:w-1/2 p-2 w-full&quot;]/div[1]/div[@class=&quot;focus-within:border-skin-borderBtn focus:ring-1 outline-none leading-8 transition-colors duration-200 ease-in-out relative bg-transparent font-regularMontserrat text-md h-10 w-full py-1 rounded border border-skin-borderInput&quot;]/div[@class=&quot;mt-2 shadow-md border rounded-lg w-full h-28 overflow-y-auto absolute z-50 bg-white&quot;]/span[@class=&quot;font-regular text-base text-skin-base h-10 flex items-center p-2 cursor-pointer hover:bg-skin-fillTo hover:text-white&quot;]</value>
+      <webElementGuid>f2ee8efb-25b5-4499-9c43-a6566d2f6274</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/form/div/div[3]/div/div/div/span[4]</value>
+      <webElementGuid>d9332dec-4583-4bc1-bfd2-1c6d3b9b6e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inviata'])[1]/following::span[1]</value>
+      <webElementGuid>9b720f5d-d880-41d4-a5d2-6ed3d7a030b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created'])[1]/following::span[2]</value>
+      <webElementGuid>24c93ed0-d151-46ca-b677-b4a007164f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment in progress'])[1]/preceding::span[1]</value>
+      <webElementGuid>2aa26fa4-e72f-4bac-b715-543338324123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='payed'])[1]/preceding::span[2]</value>
+      <webElementGuid>3b231a00-3c56-48e6-bae7-774276096e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Failed']/parent::*</value>
+      <webElementGuid>12661d4d-71c5-4d86-8965-c1f5921e87c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>14bc5360-b9db-4ded-a2a6-cfd2bd7562bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Failed' or . = 'Failed')]</value>
+      <webElementGuid>858832cd-4304-402c-8b2a-cc51c5a1c75b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

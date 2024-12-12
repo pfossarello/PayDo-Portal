@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Cerca cliente per nome_Tracciato_431</name>
+   <tag></tag>
+   <elementGuidId>24aa0cc5-44c4-4173-8d21-a356cb468961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Tracciato_431']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Tracciato_431</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>0279600a-9bc6-42b2-a32b-55fc5d28592b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Tracciato_431</value>
+      <webElementGuid>7b25271f-3226-4f25-bb2e-9c565d05f658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Tracciato 431</value>
+      <webElementGuid>e2b4a201-7888-4eca-85ef-4db6dfc40108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M943.241,489.342a.562.562,0,0,1-.4-.164l-4.021-4.021a.56.56,0,0,1,.792-.792l4.021,4.021a.56.56,0,0,1-.4.956Z</value>
+      <webElementGuid>7c394707-73fc-4111-9dde-4a2139a95026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#bc227e</value>
+      <webElementGuid>6964ea09-db13-4251-878b-7b8a89994ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Tracciato_431&quot;)</value>
+      <webElementGuid>00452422-61f1-489f-844f-9455d3f69af7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Tracciato_431']</value>
+      <webElementGuid>09920cdf-9dd0-477a-a1a5-e23d1a831495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

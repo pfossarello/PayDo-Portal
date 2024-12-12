@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cerca per gruppo</name>
+   <tag></tag>
+   <elementGuidId>e845a47a-d02a-4fe5-8883-6d5aac476dc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div/form/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70cd3e5c-05ad-42b7-9a18-af5531d2453f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-11 py-2 block basic-single select-none transition-all no-scroll font-regularMontserrat text-md h-10 w-full rounded border border-skin-borderInput focus-within:border-skin-borderBtn focus:ring-1 outline-none duration-200 ease-in-out css-b62m3t-container</value>
+      <webElementGuid>758138a5-92ca-40da-9063-c20d57c66789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerca per gruppo</value>
+      <webElementGuid>7ac92b21-6aa6-4548-b698-55a9f7a13647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;-mx-10 -px-10 xl:-mx-20 xl:-px-20 border-b-2 border-skin-borderRowTable font-regular text-base&quot;]/div[@class=&quot;mx-auto px-10 xl:px-20&quot;]/div[@class=&quot;py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap -m-2 py-4 text-sm&quot;]/div[@class=&quot;lg:w-1/3 md:w-1/2 p-2 w-full&quot;]/div[@class=&quot;undefined transition-all&quot;]/div[@class=&quot;z-10 flex flex-col justify-end relative cursor-pointer&quot;]/div[@class=&quot;h-11 py-2 block basic-single select-none transition-all no-scroll font-regularMontserrat text-md h-10 w-full rounded border border-skin-borderInput focus-within:border-skin-borderBtn focus:ring-1 outline-none duration-200 ease-in-out css-b62m3t-container&quot;]</value>
+      <webElementGuid>f21ccc1c-962c-46a3-ad31-6b63ae2e4e6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/form/div/div[3]/div/div/div</value>
+      <webElementGuid>7c48e9ef-d6fb-4430-97a0-0238a0112d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtri'])[1]/following::div[12]</value>
+      <webElementGuid>fffb9781-b963-4d90-a4bf-513ecedb9a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::div[14]</value>
+      <webElementGuid>2504300c-c375-4f45-b241-72d54a001235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nome'])[1]/preceding::div[8]</value>
+      <webElementGuid>8340f4af-9f07-4500-98b0-734ebaf237ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>db4c90e8-3224-439d-ae23-0885ae926b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cerca per gruppo' or . = 'Cerca per gruppo')]</value>
+      <webElementGuid>00cf609c-9941-4d35-999d-771c0b7490d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

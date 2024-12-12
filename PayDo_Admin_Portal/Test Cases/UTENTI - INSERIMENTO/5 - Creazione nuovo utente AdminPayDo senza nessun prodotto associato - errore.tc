@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5 - Creazione nuovo utente AdminPayDo senza nessun prodotto associato - errore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>484aec98-7815-4a0a-af41-38c8bba83e70</testCaseGuid>
+</TestCaseEntity>

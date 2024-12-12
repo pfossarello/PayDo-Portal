@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__cm-activeLine cm-line</name>
+   <tag></tag>
+   <elementGuidId>42d9a63c-34ae-40ff-83c9-5004db79117b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cm-activeLine.cm-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/form/div[4]/div[2]/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3407e18d-9805-467a-9157-dd1fb4f6ddd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cm-activeLine cm-line</value>
+      <webElementGuid>b8e80d04-f2b4-4722-98a1-9b0f9d2ff3c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[@class=&quot;space-y-14&quot;]/div[4]/div[@class=&quot;cm-theme my-4&quot;]/div[@class=&quot;cm-editor cm-focused ͼ1 ͼ3 ͼ4 ͼ18 ͼo&quot;]/div[@class=&quot;cm-scroller&quot;]/div[@class=&quot;cm-content&quot;]/div[@class=&quot;cm-activeLine cm-line&quot;]</value>
+      <webElementGuid>18812fff-ded2-4025-a9d9-c2cfbbd66b50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div[4]/div[2]/div/div[2]/div[2]/div</value>
+      <webElementGuid>8b556a7d-e2a7-48e2-a484-97fa6f4c157c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::div[3]</value>
+      <webElementGuid>7e97af11-9ff0-4899-a6c6-29789703a734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FORMAT'])[1]/following::div[13]</value>
+      <webElementGuid>60dfe26e-052b-4321-96cf-e8c23c313786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salva template'])[1]/preceding::div[4]</value>
+      <webElementGuid>fae99ab9-18d6-4f67-920e-46540398bee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::div[8]</value>
+      <webElementGuid>4897996d-6b65-43e0-b0bf-50608c9fb640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div</value>
+      <webElementGuid>a1c4b2e0-f3dd-45e4-a7bc-b2f855f23335</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

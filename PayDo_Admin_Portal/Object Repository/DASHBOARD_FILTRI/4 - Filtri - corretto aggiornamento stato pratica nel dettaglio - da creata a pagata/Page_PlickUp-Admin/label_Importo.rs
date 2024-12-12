@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Importo</name>
+   <tag></tag>
+   <elementGuidId>ed2083a8-3265-40c4-a06d-f9b651c97c2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr[2]/td/div/div[2]/div/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.pb-1.text-sm.font-mediumMontserrat.text-skin-base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>29e91efb-e623-4240-8891-b67d1b25ea80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pb-1 text-sm font-mediumMontserrat text-skin-base</value>
+      <webElementGuid>0facabe4-ec85-4c56-81bb-499f1a9b2908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Importo</value>
+      <webElementGuid>f7802843-eee8-4859-88a1-cecbb03cdd35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full relative&quot;]/table[@class=&quot;min-w-full table-auto px-2 text-skin-base relative&quot;]/tbody[@class=&quot;bg-white divide-y divide-skin-borderRowTable border border-skin-borderRowTable&quot;]/tr[@class=&quot;container&quot;]/td[1]/div[@class=&quot;mx-auto relative&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;sm:w-1/3 bg-skin-bgDefault&quot;]/div[@class=&quot;h-full px-8 py-2 flex flex-col justify-around bg-row-amount bg-no-repeat bg-bottom-custom bg-contain bg-16&quot;]/div[@class=&quot;pb-2&quot;]/label[@class=&quot;pb-1 text-sm font-mediumMontserrat text-skin-base&quot;]</value>
+      <webElementGuid>615adb83-2869-4d73-9104-9993d02ce093</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr[2]/td/div/div[2]/div/div/div/div/label</value>
+      <webElementGuid>e0b90d51-3a74-4954-bb3a-9dcb92728fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scadenza'])[1]/following::label[1]</value>
+      <webElementGuid>67adce69-0487-49e3-9ac6-ef56f3b3743f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimo stato'])[1]/following::label[1]</value>
+      <webElementGuid>0bc8bfb7-9073-4437-b51d-882941631890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scadenza'])[2]/preceding::label[1]</value>
+      <webElementGuid>bab6160d-72b8-434a-8000-e43b7edc1c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Causale'])[2]/preceding::label[2]</value>
+      <webElementGuid>6cc73c8e-fa00-4bb8-924f-06572c20aaf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/label</value>
+      <webElementGuid>a5c79df9-7aa2-4689-965a-dfc720f57082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Importo' or . = 'Importo')]</value>
+      <webElementGuid>67fa31fa-8a2b-4279-9ac7-a6c1684ac99a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

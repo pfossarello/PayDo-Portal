@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7 - Corretta cancellazione filtri di ricerca impostati</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f59034b-f1ed-4b5e-b5a4-5d56571dd250</testCaseGuid>
+</TestCaseEntity>

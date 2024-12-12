@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7 - ricerca cliente in Lista clienti nella sezione Aggiungi gruppo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1ce0c39-7166-45e7-b102-2a70a189e6db</testCaseGuid>
+</TestCaseEntity>

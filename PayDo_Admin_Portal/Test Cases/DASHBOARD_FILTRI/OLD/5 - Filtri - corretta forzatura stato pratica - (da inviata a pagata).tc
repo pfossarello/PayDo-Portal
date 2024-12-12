@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5 - Filtri - corretta forzatura stato pratica - (da inviata a pagata)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c675406-2816-4278-83e6-2650dae0873e</testCaseGuid>
+</TestCaseEntity>

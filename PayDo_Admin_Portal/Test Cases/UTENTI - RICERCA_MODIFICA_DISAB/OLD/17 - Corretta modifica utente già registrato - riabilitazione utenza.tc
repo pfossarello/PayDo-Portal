@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>17 - Corretta modifica utente già registrato - riabilitazione utenza</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e278e663-8131-466d-85d0-1212f1adf4aa</testCaseGuid>
+</TestCaseEntity>

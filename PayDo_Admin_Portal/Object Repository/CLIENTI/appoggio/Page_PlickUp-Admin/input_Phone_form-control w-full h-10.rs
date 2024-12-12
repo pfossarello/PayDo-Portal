@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Phone_form-control w-full h-10</name>
+   <tag></tag>
+   <elementGuidId>27915401-2d8e-4637-a867-134be4e9a9a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='+']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(7) > div > div.mt-2.w-full.h-10.font-regularMontserrat.react-tel-input > input.form-control.w-full.h-10</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>741d7166-567e-4597-ae9a-ac3b72f19fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control w-full h-10</value>
+      <webElementGuid>00c6019d-cb1f-4606-a475-cf3803a0b759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Telefono servizio clienti</value>
+      <webElementGuid>b994b271-362c-4400-b496-c67428b36f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>3a10b684-669d-4769-b97e-d8b7f0e7fa0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>+</value>
+      <webElementGuid>d57a379f-453a-484f-95f0-82c6fc7e9c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;md:w-1/2 w-full flex flex-col h-auto&quot;]/div[@class=&quot;flex flex-col p-4 lg:py-10 lg:px-14 lg:3/5 md:w-5/6 w-full text-md font-regular xl:w-9/12 xl:py-10 xl:px-16&quot;]/div[@class=&quot;space-y-5&quot;]/div[7]/div[1]/div[@class=&quot;mt-2 w-full h-10 font-regularMontserrat  react-tel-input&quot;]/input[@class=&quot;form-control w-full h-10&quot;]</value>
+      <webElementGuid>9e452b14-bcfe-4445-a52c-bddff568b3a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='+']</value>
+      <webElementGuid>15ef118c-21a3-4476-a333-4733baa87623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/form/div/div[2]/div/div/div[7]/div/div/input</value>
+      <webElementGuid>26fb373d-688d-4016-b567-ec6cb8c9a009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/input</value>
+      <webElementGuid>2971594d-9b7b-4ca8-9995-59aaf9385b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Telefono servizio clienti' and @type = 'tel']</value>
+      <webElementGuid>ae6828d6-09fc-4e8d-936a-bef9de71e841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_5102550</name>
+   <tag></tag>
+   <elementGuidId>0b08de7e-0b11-47a3-9369-34a994db3fe1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div[2]/nav/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>96d6367c-0b79-40d9-8032-b509ee9a0b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-0 border-b-2 font-regularMontserrat border-skin-borderInput focus-within:border-b-skin-borderBtn outline-none leading-8 transition-colors duration-200 ease-in-out</value>
+      <webElementGuid>8414161d-4619-41fb-ab73-719039bebee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5102550</value>
+      <webElementGuid>1cf48c0c-7e5f-4d7f-be3f-2742b69f7b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;py-4 text-right flex space-x-12 justify-end items-center&quot;]/nav[@class=&quot;space-x-4&quot;]/select[@class=&quot;border-0 border-b-2 font-regularMontserrat border-skin-borderInput focus-within:border-b-skin-borderBtn outline-none leading-8 transition-colors duration-200 ease-in-out&quot;]</value>
+      <webElementGuid>2d0127c4-d55c-49e1-a0ef-0b0dc92f5340</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div[2]/nav/select</value>
+      <webElementGuid>988c31fa-4bb6-476e-b495-44ac3f91f4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elementi per pagina'])[1]/following::select[1]</value>
+      <webElementGuid>3714da73-970c-4a7d-b666-78db09442673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sasà@mobilesoft.it'])[1]/following::select[1]</value>
+      <webElementGuid>ba170951-c836-49c7-9d39-a6f32b1c2414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::select[1]</value>
+      <webElementGuid>25101b55-1f56-42ef-b40b-dd38e1482328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>51343fcf-e485-4b12-9a3a-07c0e84c332c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '5102550' or . = '5102550')]</value>
+      <webElementGuid>6dd5c60e-692b-44fb-9214-079e8700ac48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

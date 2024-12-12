@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4 - ricerca gruppo in Elenco gruppi - rilsultato non trovato</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bd4f5d9-4077-4ea7-ae76-89c548d861fb</testCaseGuid>
+</TestCaseEntity>

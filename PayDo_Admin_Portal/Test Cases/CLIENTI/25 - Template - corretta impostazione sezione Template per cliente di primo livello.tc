@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>25 - Template - corretta impostazione sezione Template per cliente di primo livello</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a83268e5-a85e-4969-9c3f-c0daf2a48198</testCaseGuid>
+</TestCaseEntity>

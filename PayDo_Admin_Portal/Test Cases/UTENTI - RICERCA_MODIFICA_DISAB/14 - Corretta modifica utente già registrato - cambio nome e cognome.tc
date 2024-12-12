@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14 - Corretta modifica utente già registrato - cambio nome e cognome</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6af81de1-ef03-449c-83e2-cb5471868f8b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 2 - DASHBOARD - navigazione tra pagine in sezione DASHBOARD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14d6ff5f-f41a-4836-98e5-d0d409bc2ffa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 9 - 11-bis - Filtri - corretto filtraggio per Data creazione e Codice identificativo - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c950304-690b-467a-9525-3108569bd1f6</testCaseGuid>
+</TestCaseEntity>

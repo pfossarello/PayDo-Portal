@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 19 - Filtri - corretto filtraggio per Importo massimo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>123c69f2-ef88-4199-9290-4a77f79b31e2</testCaseGuid>
+</TestCaseEntity>

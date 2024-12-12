@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Utente creato</name>
+   <tag></tag>
+   <elementGuidId>6a0357f4-e95d-41ff-84aa-5a206a15c07c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-md.font-mediumMontserrat.text-green-600</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loxaaxv']/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c9746a67-1148-4460-b0af-2c70ba779fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-md  font-mediumMontserrat text-green-600</value>
+      <webElementGuid>fe3d2808-ad4a-4e3a-88d1-1406e8ee1b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Utente creato</value>
+      <webElementGuid>92ca5c28-37ce-4fba-8342-e1a58d748a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loxaaxv&quot;)/div[@class=&quot;Toastify__toast-body p-0 m-0&quot;]/div[1]/div[@class=&quot;flex space-x-4 w-auto&quot;]/div[@class=&quot;flex flex-col flex-1 px-2 space-y-1&quot;]/span[@class=&quot;text-md  font-mediumMontserrat text-green-600&quot;]</value>
+      <webElementGuid>2f99a2bf-4f2e-41ca-91e3-b1c2aad575d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loxaaxv']/div/div/div/div/span</value>
+      <webElementGuid>a4845068-88ef-4076-bae2-6db530447013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elementi per pagina'])[1]/following::span[1]</value>
+      <webElementGuid>250e4a3d-968d-4583-9835-c429c971994b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test1730826732728@example.com'])[1]/following::span[2]</value>
+      <webElementGuid>1dd50d10-1ce1-4283-a2d8-e1876e4c2fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entità creata con successo.'])[1]/preceding::span[1]</value>
+      <webElementGuid>81d9e931-01c5-4e43-8619-eb48b15de681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::span[2]</value>
+      <webElementGuid>9b6036e5-6181-43aa-b637-d285fd704c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Utente creato']/parent::*</value>
+      <webElementGuid>6c9cc11d-c26f-4f9c-a77e-a5d0514aabfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/span</value>
+      <webElementGuid>65e33e2a-49eb-477a-8efb-0ee40562a55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Utente creato' or . = 'Utente creato')]</value>
+      <webElementGuid>d014f80c-46b7-4290-8a6f-4ee67ca1f17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='9uu6evh']/div/div/div/div/span</value>
+      <webElementGuid>963fb810-23d9-45cf-8c9d-56ef5a152dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test1730822907756@example.com'])[1]/following::span[2]</value>
+      <webElementGuid>2a1caa53-8081-461f-82a4-5b205c323a3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

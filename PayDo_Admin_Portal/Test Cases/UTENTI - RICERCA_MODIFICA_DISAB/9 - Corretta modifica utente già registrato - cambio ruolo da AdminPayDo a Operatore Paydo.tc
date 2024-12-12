@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - Corretta modifica utente già registrato - cambio ruolo da AdminPayDo a Operatore Paydo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>935f3b4e-8731-4b7e-9cd6-391af6835f8f</testCaseGuid>
+</TestCaseEntity>

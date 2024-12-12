@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_payed</name>
+   <tag></tag>
+   <elementGuidId>d54814b1-d2c3-41ab-b9f4-c513f5a1b738</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr[2]/td/div/div[2]/div/div[2]/div/div[3]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>94cefef9-f031-4cd2-82a8-1f9718d6d9a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-regularMontserrat text-skin-base w-full break-all</value>
+      <webElementGuid>cc72606e-a7e2-45d4-ad6e-0b30fb3d4868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>payed</value>
+      <webElementGuid>78035ce9-0623-468c-8bab-6a57a6507762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full relative&quot;]/table[@class=&quot;min-w-full table-auto px-2 text-skin-base relative&quot;]/tbody[@class=&quot;bg-white divide-y divide-skin-borderRowTable border border-skin-borderRowTable&quot;]/tr[@class=&quot;container&quot;]/td[1]/div[@class=&quot;mx-auto relative&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;sm:w-1/3&quot;]/div[@class=&quot;h-full px-8 py-2 flex flex-col justify-around bg-row-info bg-no-repeat bg-bottom-custom bg-contain bg-16&quot;]/div[@class=&quot;flex justify-around&quot;]/div[@class=&quot;w-1/3&quot;]/p[@class=&quot;text-base font-regularMontserrat text-skin-base w-full break-all&quot;]</value>
+      <webElementGuid>3ef108fe-e970-49d5-a7a8-32bd178f4472</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/table/tbody/tr[2]/td/div/div[2]/div/div[2]/div/div[3]/div/p</value>
+      <webElementGuid>4eedd03a-09f1-4d7d-93c0-c28eb05c849b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stato'])[3]/following::p[1]</value>
+      <webElementGuid>118dfd31-b151-4886-8801-67d16be7330d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metodo di pagamento'])[2]/following::p[2]</value>
+      <webElementGuid>4c4e22ac-ef5e-4a5d-a9e7-59995dee0d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimo stato'])[2]/preceding::p[1]</value>
+      <webElementGuid>860bcb32-4901-4608-bbb3-9d64373de239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ricevente'])[2]/preceding::p[2]</value>
+      <webElementGuid>8fb63736-62a9-4e41-942f-a013a2b7c814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='payed']/parent::*</value>
+      <webElementGuid>6bf83c84-a54f-4845-abbc-29b73a2797f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>c88234ac-e357-4f6b-a7e3-d684a5b997b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'payed' or . = 'payed')]</value>
+      <webElementGuid>7e665765-fbe7-4a62-a17d-8c36c2beda4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14 - corretto ritorno alla home</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af3977f5-e5fa-4d9a-bcfb-e247926f74cc</testCaseGuid>
+</TestCaseEntity>

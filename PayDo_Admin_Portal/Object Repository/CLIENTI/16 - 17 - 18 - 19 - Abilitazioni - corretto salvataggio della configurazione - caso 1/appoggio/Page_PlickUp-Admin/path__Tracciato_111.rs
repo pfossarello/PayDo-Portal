@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path__Tracciato_111</name>
+   <tag></tag>
+   <elementGuidId>22f7e8e7-feba-4457-84e8-0917b17e9b09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Tracciato_111</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Tracciato_111']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>1a099236-f78a-4d6a-b7fc-b32cc3bee87d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Tracciato_111</value>
+      <webElementGuid>0d697dad-75ad-4452-9091-10732b3e320d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Tracciato 111</value>
+      <webElementGuid>719ed6da-ce0c-48d9-9f79-075e51b61e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M541.746-1549.9a.438.438,0,0,1-.311-.129.438.438,0,0,1,0-.621l6.93-6.93a.438.438,0,0,1,.621,0,.439.439,0,0,1,0,.622l-6.929,6.929A.44.44,0,0,1,541.746-1549.9Z</value>
+      <webElementGuid>9c1a93db-74e3-49d8-8e79-bdd6bba65226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#bc227e</value>
+      <webElementGuid>72e7684d-0c17-4feb-a76d-3c76c1df4aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap mt-10 space-y-8 md:space-y-0&quot;]/div[@class=&quot;md:w-1/2 flex flex-col items-start h-auto w-full relative&quot;]/div[@class=&quot;h-auto w-11/12 mx-auto xl:w-3/5 lg:w-3/4 md:w-10/12 md:ml-0 lg:ml-6 xl:ml-10 py-8 flex flex-col font-regularMontserrat&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@class=&quot;group&quot;]/div[@class=&quot;my-2 w-28 text-center flex justify-center mx-2 invisible group-hover:visible cursor-pointer ease-linear transition-all duration-150&quot;]/svg[@class=&quot;inline-block cursor-pointer&quot;]/g[@id=&quot;Raggruppa_67&quot;]/path[@id=&quot;Tracciato_111&quot;]</value>
+      <webElementGuid>178980ff-0d81-45cd-9b94-84cb0bb7bed2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Tracciato_111']</value>
+      <webElementGuid>474ae948-8998-4e88-95af-633f9b2cf5fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

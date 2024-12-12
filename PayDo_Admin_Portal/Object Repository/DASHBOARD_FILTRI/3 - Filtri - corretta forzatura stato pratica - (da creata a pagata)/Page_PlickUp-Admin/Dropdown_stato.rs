@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown_stato</name>
+   <tag></tag>
+   <elementGuidId>4ae56e54-c049-41d0-b266-30efb37b6f80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Componente_100_4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'lg:w-1/4') and contains(@class, 'md:w-1/2') and contains(@class, 'p-2') and contains(@class, 'w-full')]//div[contains(@class, 'focus-within:border-skin-borderBtn') and contains(@class, 'border-skin-borderInput')]//input[@name='state' and @aria-describedby='Stato']&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>35918f38-2176-4886-868b-f9f1ea9f13ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Componente_100_4</value>
+      <webElementGuid>ee92059e-4e50-4b67-84f8-1f0d21e81ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Componente 100 \u2013 4</value>
+      <webElementGuid>56d47987-6957-4b03-a0e3-bfd98017acb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>d05433e1-c8e9-4c33-b2c0-1e752aff6194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>e8632146-3493-4608-966d-3b4c032d406d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>19.773</value>
+      <webElementGuid>d2b11344-0bba-4e82-a21d-fd69a33d521c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>22.729</value>
+      <webElementGuid>231cd19f-5b64-4235-a9a2-353dd430a822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 19.773 22.729</value>
+      <webElementGuid>595418e1-b431-406e-a4a3-4ea9a0ac57c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block cursor-pointer w-5 pt-1 h-7</value>
+      <webElementGuid>86196b81-3833-4028-b27b-2d370b4ac3f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Componente_100_4&quot;)</value>
+      <webElementGuid>87d43033-07c3-4660-a146-67653ee55448</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device ricevente'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6a04f907-5f9b-4b18-b459-0998917b880b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nome cognome ricevente'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>027c5dfd-92ee-4550-af1e-78522c3bf61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identificativo'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>8051baab-8d52-49e9-84ac-1759faf6d4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creazione'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>30d7355b-c186-47ae-bf8a-63c802bae0df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'Componente_100_4']</value>
+      <webElementGuid>9978a741-ff3b-4306-80de-f7087bcf04b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

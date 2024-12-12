@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15 - Corretta modifica utente già registrato - cambio pwd</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>daa3ea4d-219f-4e2b-8af6-409359a9f50d</testCaseGuid>
+</TestCaseEntity>

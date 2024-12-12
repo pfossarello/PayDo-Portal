@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_IMgKTZ_Tracciato_1800</name>
+   <tag></tag>
+   <elementGuidId>cef91e3b-eb3c-4216-84c8-61d6c36f28f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = &quot;Tracciato_1800&quot; data-name=&quot;Tracciato 1800&quot; ]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Tracciato_1800</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>457ca2db-6063-416f-9f8f-fdb340c5c98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Tracciato_1800</value>
+      <webElementGuid>dadae48a-4b2c-4793-b0c7-cab5f405d32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Tracciato 1800</value>
+      <webElementGuid>2e1b352b-bc4a-4a41-9de2-2d38851c2ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M2.468,0H17.306a2.441,2.441,0,0,1,2.232,1.421A2.442,2.442,0,0,1,19.2,4.046l-.007.008L16.77,6.838,12.3,12.109a.4.4,0,0,0-.093.255v8.848a1.494,1.494,0,0,1-.472,1.1,1.546,1.546,0,0,1-1.048.417,1.488,1.488,0,0,1-.984-.369L7.934,20.83a1.512,1.512,0,0,1-.525-1.147V12.36a.394.394,0,0,0-.091-.252L.577,4.046A2.442,2.442,0,0,1,.236,1.421,2.442,2.442,0,0,1,2.468,0ZM17.3,1.12H2.468A1.315,1.315,0,0,0,1.251,1.9a1.315,1.315,0,0,0,.186,1.431l6.74,8.062a1.516,1.516,0,0,1,.352.971v7.322a.393.393,0,0,0,.136.3l1.774,1.53a.377.377,0,0,0,.252.1.4.4,0,0,0,.4-.4V12.364a1.519,1.519,0,0,1,.358-.978l4.468-5.275,0-.005,2.418-2.782A1.315,1.315,0,0,0,18.523,1.9a1.314,1.314,0,0,0-1.217-.775H17.3Z</value>
+      <webElementGuid>50d4f7e5-9045-4a8b-b469-0d7adc841486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(0 0)</value>
+      <webElementGuid>c6685ddf-4fa6-44f9-853f-44f8dcf5053a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#38719a</value>
+      <webElementGuid>335db5a1-f6da-4682-8ac3-da036ded8328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Tracciato_1800&quot;)</value>
+      <webElementGuid>e2295ae0-53bb-40db-9e3d-4208ed9c9bc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Tracciato_1800']</value>
+      <webElementGuid>d16d97a8-14ff-4bac-9f66-188fa6763d99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

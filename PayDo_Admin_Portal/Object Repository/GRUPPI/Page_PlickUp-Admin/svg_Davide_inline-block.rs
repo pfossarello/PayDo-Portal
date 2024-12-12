@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Davide_inline-block</name>
+   <tag></tag>
+   <elementGuidId>28fd406d-59a6-4657-a5cb-af0de7496fbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.inline-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Davide'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f1b6320b-4b3a-4b55-b5c3-5d8aaf384546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>339655ff-39c0-44e8-941b-fc9d48fdb886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>4e39c3ec-c88d-451b-b45c-3b403cac1422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>fe2ff540-730f-47bb-b2a4-efb51c887525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 26 18</value>
+      <webElementGuid>880c16a8-f5ae-4f1f-992b-b63e9a3702b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block</value>
+      <webElementGuid>7f980176-b35c-462d-9987-c2bb1b44e250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/div[@class=&quot;flex flex-col fixed top-0 w-full z-50&quot;]/header[@class=&quot;shadow-lg&quot;]/div[@class=&quot;sm:pl-10 pl-6 flex flex-wrap h-20 justify-between items-center bg-white border-b border-gray-200&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;w-24 h-20 bg-skin-bgBtnMenu felx items-center justify-center&quot;]/svg[@class=&quot;inline-block&quot;]</value>
+      <webElementGuid>54b74109-6704-444d-b6ec-0f811c13274c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Davide'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>d58aa6fb-cab6-4126-91af-0f0552a32a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtri'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>9b95a54c-3b89-4cb3-9db2-37f637b926c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identificativo'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>52f5e777-03be-4d94-965f-3eb7920191a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Davide'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>511b1379-4d36-4d91-8bdb-2b65e176b3da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>4f6b0030-0e1e-40ca-a3bc-098b2047375c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

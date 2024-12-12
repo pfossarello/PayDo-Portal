@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6 - Corretto ordinamento risultati su pagina per numero record registrati magg 5 e avanzamento pagina</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ef0dd0e-f95d-49b6-99fb-f3b5057fca05</testCaseGuid>
+</TestCaseEntity>

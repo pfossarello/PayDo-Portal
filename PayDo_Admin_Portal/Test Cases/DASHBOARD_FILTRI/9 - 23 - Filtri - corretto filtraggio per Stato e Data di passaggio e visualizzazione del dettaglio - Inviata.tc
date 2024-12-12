@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 23 - Filtri - corretto filtraggio per Stato e Data di passaggio e visualizzazione del dettaglio - Inviata</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3454b951-3c5f-4320-8060-d45825ff9d45</testCaseGuid>
+</TestCaseEntity>

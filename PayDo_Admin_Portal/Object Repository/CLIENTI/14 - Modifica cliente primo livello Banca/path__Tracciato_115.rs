@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path__Tracciato_115</name>
+   <tag></tag>
+   <elementGuidId>58723725-6051-40cb-a029-815f685fe29e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Tracciato_115</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Tracciato_115']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>88d28cff-f2d5-477c-bb49-197a0bf1c019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Tracciato_115</value>
+      <webElementGuid>1f2ce90c-c4a9-4786-8287-7b10b2e1d09c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Tracciato 115</value>
+      <webElementGuid>6f0eab21-9f1a-4865-9658-44368783203a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M547.049-1512.032h-6.167a4.733,4.733,0,0,1-4.728-4.728v-9.251a4.734,4.734,0,0,1,4.728-4.729h6.167a4.734,4.734,0,0,1,4.728,4.729v9.251A4.733,4.733,0,0,1,547.049-1512.032Zm-6.167-17.848a3.873,3.873,0,0,0-3.869,3.869v9.251a3.874,3.874,0,0,0,3.869,3.869h6.167a3.873,3.873,0,0,0,3.868-3.869v-9.251a3.872,3.872,0,0,0-3.868-3.869Z</value>
+      <webElementGuid>219aea0f-3f99-4bbd-ab1e-200e4d39d006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#38719a</value>
+      <webElementGuid>cbf31633-05d9-419e-afaf-f4f4a81e6a4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Tracciato_115&quot;)</value>
+      <webElementGuid>f955c477-9be5-465c-94a8-f6515eaea2dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Tracciato_115']</value>
+      <webElementGuid>0395319f-2629-41eb-9797-460e6500663f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

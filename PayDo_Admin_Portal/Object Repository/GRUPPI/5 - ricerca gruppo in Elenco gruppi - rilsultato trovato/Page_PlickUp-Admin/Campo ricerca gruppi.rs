@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Campo ricerca gruppi</name>
+   <tag></tag>
+   <elementGuidId>b67713e0-3fc2-4369-90d8-18ccfa37b7a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot; &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e464bbd0-574a-4685-b2e9-ca38c9c7a904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>d5ec2cd4-8105-4daf-a988-5b4f1c8dc5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full h-full appearance-none focus:outline-none bg-transparent</value>
+      <webElementGuid>182a00cc-d96c-49ce-920d-460eea20c44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8aabcecf-7d48-44cd-a9ad-c48c54476a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>Cerca gruppo per nome</value>
+      <webElementGuid>1305e113-061d-4406-8554-2bb57c5bf202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;flex py-6 xl:flex-row flex-col items-start space-y-16 xl:space-x-12&quot;]/div[@class=&quot;w-full xl:w-1/2 space-y-4&quot;]/div[@class=&quot;-mt-8 -pt-2&quot;]/form[@class=&quot;w-full flex space-x-3 mt-5&quot;]/div[@class=&quot;w-11/12&quot;]/div[1]/div[@class=&quot;relative bg-transparent font-regularMontserrat text-md h-10 w-full rounded border border-skin-borderInput focus-within:border-skin-borderBtn focus:ring-1 outline-none py-1 px-3 leading-8 transition-colors duration-200 ease-in-out&quot;]/input[@class=&quot;block w-full h-full appearance-none focus:outline-none bg-transparent&quot;]</value>
+      <webElementGuid>3e7b924d-b706-4309-bd0e-3d8a6dc4147d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='name']</value>
+      <webElementGuid>c2459450-34ad-49db-b23d-18da27f10dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/form/div/div/div/input</value>
+      <webElementGuid>0b01313c-3a46-4230-8334-cd9c9eb916cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>fb9af61b-70d4-4e43-84d2-054343a3e0ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'name' and @type = 'input']</value>
+      <webElementGuid>3554a7a6-98bb-40cb-b2e5-c89b020fd8cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

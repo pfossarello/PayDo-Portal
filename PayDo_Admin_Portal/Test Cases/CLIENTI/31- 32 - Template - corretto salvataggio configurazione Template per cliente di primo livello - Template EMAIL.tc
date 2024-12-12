@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>31- 32 - Template - corretto salvataggio configurazione Template per cliente di primo livello - Template EMAIL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b452e289-c5c8-4635-a828-b1b705fdad00</testCaseGuid>
+</TestCaseEntity>

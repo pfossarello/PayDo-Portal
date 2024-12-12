@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 9 - 12 - Filtri - corretto filtraggio per Causale e Metodo di pagamento - PISP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7663694-f0ee-4564-bb22-f04c8b94ba76</testCaseGuid>
+</TestCaseEntity>

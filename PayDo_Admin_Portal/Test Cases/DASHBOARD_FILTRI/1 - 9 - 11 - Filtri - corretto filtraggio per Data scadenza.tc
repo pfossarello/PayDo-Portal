@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 9 - 11 - Filtri - corretto filtraggio per Data scadenza</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a36fcf1b-9715-4ae5-85a0-6171826e721f</testCaseGuid>
+</TestCaseEntity>

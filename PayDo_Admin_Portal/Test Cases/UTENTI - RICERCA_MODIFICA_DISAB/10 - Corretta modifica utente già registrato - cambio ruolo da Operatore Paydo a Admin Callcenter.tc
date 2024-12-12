@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10 - Corretta modifica utente già registrato - cambio ruolo da Operatore Paydo a Admin Callcenter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb782f6d-5cf1-4165-ae1d-eb6d72ce04f2</testCaseGuid>
+</TestCaseEntity>

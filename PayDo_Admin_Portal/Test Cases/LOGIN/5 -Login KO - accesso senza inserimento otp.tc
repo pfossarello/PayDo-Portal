@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5 -Login KO - accesso senza inserimento otp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e90086b-f522-486f-ad59-d7b1e71360ca</testCaseGuid>
+</TestCaseEntity>

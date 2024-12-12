@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabella gruppi</name>
+   <tag></tag>
+   <elementGuidId>722934a4-542b-436d-9498-228c96196fcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.overflow-x-auto.px-1.py-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.overflow-x-auto</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91e41eb9-e518-421e-9666-7d0f9bee06f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overflow-x-auto px-1 py-4</value>
+      <webElementGuid>24ba586d-89f4-44c0-a4be-42c81a7803e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NomezciaoModificaEliminaLista clienticiaociaoModificaEliminaLista clientiIMgKTZModificaEliminaLista clientiNJtEqLModificaEliminaLista clientiTHVlGqModificaEliminaLista clienti</value>
+      <webElementGuid>e04f6aa3-aaa3-43a2-8e34-affe3af5dfd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;flex py-6 xl:flex-row flex-col items-start space-y-16 xl:space-x-12&quot;]/div[@class=&quot;w-full xl:w-1/2 space-y-4&quot;]/div[@class=&quot;-mt-8 -pt-2&quot;]/div[@class=&quot;mt-2 flex flex-col&quot;]/div[@class=&quot;overflow-x-auto px-1 py-4&quot;]</value>
+      <webElementGuid>6715635d-bfff-4116-8a8a-28e224a3429e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/div/div</value>
+      <webElementGuid>e4c77c12-71a6-4551-9741-8f8bf0b4c10f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerca gruppo per nome'])[1]/following::div[2]</value>
+      <webElementGuid>58eecb87-7c0d-4452-847a-c059f38621d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestione gruppi'])[1]/following::div[8]</value>
+      <webElementGuid>8438bae3-cd67-40ef-8e89-4997c75e58e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>481cb4a7-09cb-4ad1-932c-d3f9ee89379d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NomezciaoModificaEliminaLista clienticiaociaoModificaEliminaLista clientiIMgKTZModificaEliminaLista clientiNJtEqLModificaEliminaLista clientiTHVlGqModificaEliminaLista clienti' or . = 'NomezciaoModificaEliminaLista clienticiaociaoModificaEliminaLista clientiIMgKTZModificaEliminaLista clientiNJtEqLModificaEliminaLista clientiTHVlGqModificaEliminaLista clienti')]</value>
+      <webElementGuid>2de8fef1-ad6a-4e14-a433-2dca848d94cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - Creazione nuovo utente AdminPayDo con associati 3 prodotti</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66b0ac40-511c-4e80-a36e-575a9cd01127</testCaseGuid>
+</TestCaseEntity>

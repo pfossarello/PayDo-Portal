@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>33 - Template - verifica corretta attivazione_disattivazione slider in sezione template</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1276863-7b79-47da-82c1-1a26ef58119d</testCaseGuid>
+</TestCaseEntity>

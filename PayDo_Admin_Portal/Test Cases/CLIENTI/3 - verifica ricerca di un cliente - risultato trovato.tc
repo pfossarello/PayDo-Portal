@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3 - verifica ricerca di un cliente - risultato trovato</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fba24337-e3c2-4604-bba7-bb335a55a781</testCaseGuid>
+</TestCaseEntity>

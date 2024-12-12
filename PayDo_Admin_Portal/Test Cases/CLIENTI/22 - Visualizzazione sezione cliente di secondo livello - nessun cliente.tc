@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>22 - Visualizzazione sezione cliente di secondo livello - nessun cliente</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec67d1fd-8922-40b1-aff1-dcb00831e46b</testCaseGuid>
+</TestCaseEntity>

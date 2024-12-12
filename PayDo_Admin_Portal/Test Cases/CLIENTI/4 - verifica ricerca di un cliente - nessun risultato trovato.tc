@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4 - verifica ricerca di un cliente - nessun risultato trovato</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78ba6791-0f95-437b-8da7-545438784de4</testCaseGuid>
+</TestCaseEntity>

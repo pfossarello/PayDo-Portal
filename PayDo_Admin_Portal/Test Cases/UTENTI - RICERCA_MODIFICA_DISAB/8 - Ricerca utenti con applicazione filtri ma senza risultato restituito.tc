@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8 - Ricerca utenti con applicazione filtri ma senza risultato restituito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a236c462-b62f-4a9b-a564-1615641663c0</testCaseGuid>
+</TestCaseEntity>

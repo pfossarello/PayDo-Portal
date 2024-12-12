@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Gestione Utenti</name>
+   <tag></tag>
+   <elementGuidId>d2c6b5a0-f615-40d6-b581-d1b0d4aaf7f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.z-10 >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f08210a-0e05-4fec-9c10-9354b272af56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-10 absolute top-3 left-3 right-3 bottom-3 group-hover:bg-skin-fillTo label-checked:bg-skin-fillTo opacity-10 cursor-pointer</value>
+      <webElementGuid>968b34b2-609d-403f-a0be-84987e73e8fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/div[@class=&quot;flex items-start justify-center px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-sm w-full&quot;]/div[@class=&quot;space-y-8 p-5 text-center&quot;]/div[@class=&quot;relative my-3 group&quot;]/div[@class=&quot;border border-skin-borderBtnRadio flex  h-24 items-center z-30 px-5 text-skin-base cursor-pointer&quot;]/div[@class=&quot;z-10 absolute top-3 left-3 right-3 bottom-3 group-hover:bg-skin-fillTo label-checked:bg-skin-fillTo opacity-10 cursor-pointer&quot;]</value>
+      <webElementGuid>65438364-7ac0-480e-ab04-61c0fa05ca37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>80ed9918-d67e-493f-bbf7-390e7781f8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>e0a5f3d7-b3ab-4ae7-9c3b-1dad95f98f36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1 - 4 - Corretta ricerca utente per Cognome</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3a8cb42-1787-46bf-ac47-3fcf2d3af885</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hamburger menu</name>
+   <tag></tag>
+   <elementGuidId>99a14da9-988e-4a5a-ad41-896ef8f36589</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.w-24.h-20.bg-skin-bgBtnMenu.felx.items-center.justify-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37c24de7-4f89-4e07-8803-88c96289ebd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-24 h-20 bg-skin-bgBtnMenu felx items-center justify-center</value>
+      <webElementGuid>83e95f90-80ad-428b-b863-35a8b9d2eb38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/div[@class=&quot;flex flex-col fixed top-0 w-full z-50&quot;]/header[@class=&quot;shadow-lg&quot;]/div[@class=&quot;sm:pl-10 pl-6 flex flex-wrap h-20 justify-between items-center bg-white border-b border-gray-200&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;w-24 h-20 bg-skin-bgBtnMenu felx items-center justify-center&quot;]</value>
+      <webElementGuid>1dfcb050-aa5b-49ec-bcdf-4fbf3cb1ac31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div/div/button</value>
+      <webElementGuid>f4ff1f1b-9a1e-4a95-8581-ff41a1c19e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quence'])[1]/following::button[1]</value>
+      <webElementGuid>f10dbe16-fd9d-43ca-842f-e2ac31accb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtri'])[1]/preceding::button[1]</value>
+      <webElementGuid>7aecc0d0-7e80-4822-9efb-54d691718c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identificativo'])[1]/preceding::button[2]</value>
+      <webElementGuid>2bec81ae-7c9b-438e-96cc-e5ecd21cbc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>2ee6e478-9db1-47fe-abce-abb7e83c7e12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

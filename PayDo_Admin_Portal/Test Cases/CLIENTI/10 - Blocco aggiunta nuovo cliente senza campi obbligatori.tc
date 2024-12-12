@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10 - Blocco aggiunta nuovo cliente senza campi obbligatori</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bab9decc-aad5-45f8-b034-ad014e9c1a07</testCaseGuid>
+</TestCaseEntity>

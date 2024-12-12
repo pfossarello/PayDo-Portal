@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - mancata creazione nuovo gruppo senza nome inserito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f3a8a77-6f03-4897-8029-41e48cafba67</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>23 - Modifica cliente secondo livello Banca e successiva eliminazione</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f90e8ed1-5cb0-4bea-b437-0a5a411d528c</testCaseGuid>
+</TestCaseEntity>

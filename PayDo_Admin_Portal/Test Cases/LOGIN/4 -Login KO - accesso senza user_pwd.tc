@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4 -Login KO - accesso senza user_pwd</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80c6e8f0-87ed-42aa-8176-447c1250dceb</testCaseGuid>
+</TestCaseEntity>

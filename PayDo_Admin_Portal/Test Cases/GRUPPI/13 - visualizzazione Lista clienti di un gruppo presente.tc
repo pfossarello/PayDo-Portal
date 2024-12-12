@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>13 - visualizzazione Lista clienti di un gruppo presente</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>103b64eb-77bf-4ae5-8361-e1c5efcb74a7</testCaseGuid>
+</TestCaseEntity>

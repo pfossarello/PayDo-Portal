@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3 -Login KO - otp errato</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d546ccba-49e7-49dc-92d4-7a75d4dfc635</testCaseGuid>
+</TestCaseEntity>

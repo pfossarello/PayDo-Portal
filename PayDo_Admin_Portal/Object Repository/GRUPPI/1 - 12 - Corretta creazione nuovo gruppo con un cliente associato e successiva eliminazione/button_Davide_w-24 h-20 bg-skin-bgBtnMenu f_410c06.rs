@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Davide_w-24 h-20 bg-skin-bgBtnMenu f_410c06</name>
+   <tag></tag>
+   <elementGuidId>05501787-8ee6-4899-a64a-da58d947a775</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.w-24.h-20.bg-skin-bgBtnMenu.felx.items-center.justify-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>681e2db4-a1b6-4dd7-baea-ae162cfe6412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-24 h-20 bg-skin-bgBtnMenu felx items-center justify-center</value>
+      <webElementGuid>09d87092-40fb-42e6-89f5-ddb122847d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/div[@class=&quot;flex flex-col fixed top-0 w-full z-50&quot;]/header[@class=&quot;shadow-lg&quot;]/div[@class=&quot;sm:pl-10 pl-6 flex flex-wrap h-20 justify-between items-center bg-white border-b border-gray-200&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;w-24 h-20 bg-skin-bgBtnMenu felx items-center justify-center&quot;]</value>
+      <webElementGuid>6a7d14a4-5ed8-4314-a8b9-7c7495b6477b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div/div/button</value>
+      <webElementGuid>b4961f0c-891a-455a-8611-22d2366275f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Davide'])[1]/following::button[1]</value>
+      <webElementGuid>91005bca-b98f-4ac0-84b8-5e867e7c2e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtri'])[1]/preceding::button[1]</value>
+      <webElementGuid>5d3e7678-7fcb-4cd4-82e8-7087e86ead24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identificativo'])[1]/preceding::button[2]</value>
+      <webElementGuid>b1b059ed-cd4c-43f8-b8fc-b66dbece7849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>073228c6-6c8c-4972-bb5c-a03a98e32408</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

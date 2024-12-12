@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6 - ricerca gruppo in Elenco gruppi - azzera filtro</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e64ac65e-5ace-4b80-93fe-1c5535bb1d00</testCaseGuid>
+</TestCaseEntity>

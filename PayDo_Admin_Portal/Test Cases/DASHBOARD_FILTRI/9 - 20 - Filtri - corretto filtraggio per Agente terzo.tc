@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9 - 20 - Filtri - corretto filtraggio per Agente terzo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72c5f918-6f19-4264-bdad-4bdb914f86eb</testCaseGuid>
+</TestCaseEntity>

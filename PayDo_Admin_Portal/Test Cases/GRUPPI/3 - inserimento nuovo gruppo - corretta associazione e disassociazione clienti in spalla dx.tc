@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3 - inserimento nuovo gruppo - corretta associazione e disassociazione clienti in spalla dx</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>afcbc4fb-975e-44e8-bd51-35bc3cdb9be4</testCaseGuid>
+</TestCaseEntity>

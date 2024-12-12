@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>13 - Corretta modifica utente già registrato - cambio prodotti associati</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a476f783-9813-434d-8e65-cf7818e0fd2d</testCaseGuid>
+</TestCaseEntity>

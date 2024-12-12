@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12 - Corretta modifica utente già registrato - cambio prodotti associati per utente con ruolo AdminPayDo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4607cada-e7b0-4e3e-b5ae-f6f0da6200a1</testCaseGuid>
+</TestCaseEntity>

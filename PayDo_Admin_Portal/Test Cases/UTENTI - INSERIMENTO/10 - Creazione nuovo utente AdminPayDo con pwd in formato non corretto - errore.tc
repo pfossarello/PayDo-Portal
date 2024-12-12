@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10 - Creazione nuovo utente AdminPayDo con pwd in formato non corretto - errore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b7242aa-642a-4e17-98cf-1246bcfd3a62</testCaseGuid>
+</TestCaseEntity>

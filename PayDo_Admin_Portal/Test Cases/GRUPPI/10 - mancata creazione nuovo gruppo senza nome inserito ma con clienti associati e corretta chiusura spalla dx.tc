@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10 - mancata creazione nuovo gruppo senza nome inserito ma con clienti associati e corretta chiusura spalla dx</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b55c3584-3bf3-49cf-a53f-9f8134c1a443</testCaseGuid>
+</TestCaseEntity>
