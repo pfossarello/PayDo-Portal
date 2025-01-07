@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c1027adf-fed1-4b77-8b95-05a8a8dce75c</webElementGuid>
+      <webElementGuid>acce64d1-306d-4975-b402-251dc7f4e079</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slide relative border px-5 rounded-md w-28 md:w-auto md:mx-2 xl:w-28 text-center text-base</value>
-      <webElementGuid>daea40e6-4df4-4212-89f4-c3c761ccc234</webElementGuid>
+      <webElementGuid>294d6a12-8948-45ce-9b7e-2edbc7586f8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Esito pagamento</value>
-      <webElementGuid>b92bdef5-8283-428c-927b-11d66bffce22</webElementGuid>
+      <webElementGuid>53796250-7d39-4cb6-8f7d-96bc59466ed8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap mt-10 space-y-8 md:space-y-0&quot;]/div[@class=&quot;md:w-1/2 flex flex-col items-start h-auto w-full relative&quot;]/div[@class=&quot;w-11/12 mx-auto xl:w-3/5 lg:w-3/4 md:w-10/12 md:ml-0 lg:ml-6 xl:ml-10 py-8 flex flex-col font-regularMontserrat&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@class=&quot;group&quot;]/div[@class=&quot;slide relative border px-5 rounded-md w-28 md:w-auto md:mx-2 xl:w-28 text-center text-base&quot;]</value>
-      <webElementGuid>36246377-21e2-4e91-b268-79468f8ca744</webElementGuid>
+      <webElementGuid>15753642-7a8c-4456-a5eb-bceac9846f12</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/form/div/div[2]/div[2]/div/div[2]/div/div/div/div/div</value>
-      <webElementGuid>e815b3ef-50d7-4b37-a2ac-8d5d31ef6faf</webElementGuid>
+      <webElementGuid>d6b084c8-707b-4b8a-b544-32b717c25f27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[122]</value>
-      <webElementGuid>b8ed6ef9-a288-46a3-8289-a77388c2ec23</webElementGuid>
+      <webElementGuid>14bc15dd-3e9f-4aee-adb1-467e133feb9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Salva configurazione'])[1]/preceding::div[33]</value>
-      <webElementGuid>234eb50c-cf5d-4493-a8c8-344475bfe58c</webElementGuid>
+      <webElementGuid>bbfbe2c5-fbf0-421f-9cb1-57256064acd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::div[35]</value>
-      <webElementGuid>7ce654c4-54cb-4cd9-91d4-22931f5b1170</webElementGuid>
+      <webElementGuid>ff7b0348-9259-479e-ba7b-5cbef9bccc8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div[2]/div/div/div/div/div</value>
-      <webElementGuid>2d86906a-1732-40fa-a308-80513f10f625</webElementGuid>
+      <webElementGuid>47e4039a-08a6-4fcd-93ad-dc0913ed9c36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Esito pagamento' or . = 'Esito pagamento')]</value>
-      <webElementGuid>65308ad6-a884-45f7-ba39-846177e821fa</webElementGuid>
+      <webElementGuid>f737979a-362f-44dc-90c0-d3d0fb0a505a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

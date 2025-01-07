@@ -12,7 +12,7 @@
             <groupName>Web Desktop</groupName>
             <profileName>Admin Portal</profileName>
             <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Edge Chromium</runConfigurationId>
+            <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Test Suite - CLIENTI</testSuiteEntity>

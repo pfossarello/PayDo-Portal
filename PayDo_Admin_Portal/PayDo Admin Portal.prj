@@ -6,12 +6,12 @@
    <UUID>b1fbdf95-4ce6-4e4f-8740-445a3a6835df</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.2</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>F:\LAVORO\Paydo admin portal\PayDo_Admin_Portal\PayDo Admin Portal.prj</projectFileLocation>
+   <projectFileLocation>F:\LAVORO\Paydo admin portal\Repository\PayDo-Portal\PayDo_Admin_Portal\PayDo Admin Portal.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

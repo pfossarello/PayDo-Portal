@@ -208,6 +208,8 @@ WebUI.setText(findTestObject('Object Repository/CLIENTI/16 - 17 - 18 - 19 - Abil
 WebUI.click(findTestObject('Object Repository/CLIENTI/16 - 17 - 18 - 19 - Abilitazioni - corretto salvataggio della configurazione - caso 1/CONFIGURAZIONI LICENSE/button_Salva-License'))
 WebUI.delay(7)
 
+WebUI.executeJavaScript("window.scrollTo(0, 0);", null)
+
 WebUI.click(findTestObject('Object Repository/CLIENTI/16 - 17 - 18 - 19 - Abilitazioni - corretto salvataggio della configurazione - caso 1/div_Esito pagamento'))
 WebUI.delay(1)
 
@@ -339,7 +341,7 @@ String esito5 = WebUI.getText(dynamicSpanObject5)
 println esito5
 WS.verifyMatch(esito5, "Operazione eseguita con successo", true)
 
-WebUI.delay(6)
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/16 - 17 - 18 - 19 - Abilitazioni - corretto salvataggio della configurazione - caso 1/Button Clients'))
 
 //////ELIMINAZIONE CLIENTE INSERITO//////////////////////
