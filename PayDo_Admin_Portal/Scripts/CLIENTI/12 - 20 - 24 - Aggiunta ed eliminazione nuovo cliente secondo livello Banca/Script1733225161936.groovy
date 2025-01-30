@@ -30,7 +30,8 @@ import java.awt.Robot
 import java.awt.Toolkit
 import java.awt.datatransfer.StringSelection
 import java.awt.event.KeyEvent
-
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.JavascriptExecutor
 
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
@@ -126,6 +127,10 @@ robot.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot.keyPress(KeyEvent.VK_ENTER)
 robot.keyRelease(KeyEvent.VK_ENTER)
+
+JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
+js.executeScript("window.scrollTo(0, document.body.scrollHeight);")
+
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject = new TestObject().addProperty(
@@ -226,6 +231,8 @@ WebUI.sendKeys(phoneField2, "\b")
 WebUI.setText(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/phone client service'),'3297656333')
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button banca'))
 WebUI.delay(2)
+
+
 //WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 
@@ -251,6 +258,10 @@ robot1.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot1.keyPress(KeyEvent.VK_ENTER)
 robot1.keyRelease(KeyEvent.VK_ENTER)
+
+JavascriptExecutor js1 = (JavascriptExecutor) DriverFactory.getWebDriver()
+js1.executeScript("window.scrollTo(0, document.body.scrollHeight);")
+
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject2 = new TestObject().addProperty(

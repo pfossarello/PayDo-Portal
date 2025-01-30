@@ -22,7 +22,15 @@ import org.openqa.selenium.WebElement
 import org.openqa.selenium.By // Importa la classe By
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.testobject.ConditionType
-import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.webui.common.WebUiCommonHelper
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.JavascriptExecutor
+import org.openqa.selenium.interactions.Actions
+import org.openqa.selenium.WebDriver
+import org.openqa.selenium.WebElement
+import org.openqa.selenium.support.ui.WebDriverWait
+import org.openqa.selenium.support.ui.ExpectedConditions
+import java.util.Random
 
 
 WebUI.callTestCase(findTestCase('Test Cases/UTENTI - INSERIMENTO/2 - Creazione nuovo utente Operatore PayDo con associati 3 prodotti'), [:], FailureHandling.STOP_ON_FAILURE)
@@ -100,7 +108,38 @@ String ruolo_modificato = WebUI.getText(labelObject)
 println ruolo_modificato
 ruolo_modificato1 =  ruolo_modificato.replace("Admin Callcenter", "Admin Call Center")
 
-WebUI.click(findTestObject('Object Repository/UTENTI - RICERCA_MODIFICA_DISAB/9 - Corretta modifica utente già registrato - cambio ruolo da AdminPayDo a Operatore Paydo/Page_PlickUp-Admin/label_Plick'))
+//WebUI.click(findTestObject('Object Repository/UTENTI - RICERCA_MODIFICA_DISAB/9 - Corretta modifica utente già registrato - cambio ruolo da AdminPayDo a Operatore Paydo/Page_PlickUp-Admin/label_Plick'))
+//WebUI.click(findTestObject('Object Repository/UTENTI - INSERIMENTO/2 - Creazione nuovo utente Operatore PayDo con associati 3 prodotti/Page_PlickUp-Admin/label_Plick'))
+
+WebUI.click(findTestObject('Object Repository/UTENTI - RICERCA_MODIFICA_DISAB/10 - Corretta modifica utente già registrato - cambio ruolo da Operatore Paydo a Admin Callcenter/PlickUp'))
+
+//WebUI.click(findTestObject('Object Repository/UTENTI - INSERIMENTO/2 - Creazione nuovo utente Operatore PayDo con associati 3 prodotti/Page_PlickUp-Admin/label_Prelievi e versamenti'))
+
+WebUI.click(findTestObject('Object Repository/UTENTI - INSERIMENTO/3 - Creazione nuovo utente Admin Callcenter con associati 3 prodotti/Dropdown list/Page_PlickUp-Admin/svg_Gruppo_css-8mmkcg'))
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+List<WebElement> elements = WebUiCommonHelper.findWebElements(findTestObject('Object Repository/UTENTI - INSERIMENTO/3 - Creazione nuovo utente Admin Callcenter con associati 3 prodotti/Dropdown list/Page_PlickUp-Admin/Dropdown gruppi'), 30)
+println elements
+
+
+
+Random randomGenerator = new Random()  // Inizializza Random una sola volta
+	int lastIndex = -1  // Variabile per salvare l'indice usato l'ultima volta
+	int randomIndex = randomGenerator.nextInt(elements.size())  // Genera un indice iniziale
+	
+	// Continua a generare un indice finché non è diverso dall'ultimo
+	while (randomIndex == lastIndex) {
+		randomIndex = randomGenerator.nextInt(elements.size())
+	}
+	
+//    lastIndex = randomIndex  // Aggiorna l'indice usato l'ultima volta
+	WebElement randomOption = elements.get(randomIndex)
+	println("Elemento selezionato casualmente: " + randomOption.getText())
+	randomOption.click()
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 WebUI.click(findTestObject('Object Repository/UTENTI - RICERCA_MODIFICA_DISAB/9 - Corretta modifica utente già registrato - cambio ruolo da AdminPayDo a Operatore Paydo/Page_PlickUp-Admin/button_Aggiorna'))
 
 // Crea un Test Object dinamico con XPath per il tag <span> contenente 'Utente modificato ' e 'Entità modificata con successo'
