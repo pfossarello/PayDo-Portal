@@ -23,7 +23,12 @@ import org.openqa.selenium.By // Importa la classe By
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.testobject.ConditionType
 import internal.GlobalVariable as GlobalVariable
-
+import org.openqa.selenium.WebDriver
+import org.openqa.selenium.WebElement
+import org.openqa.selenium.support.ui.WebDriverWait
+import org.openqa.selenium.support.ui.ExpectedConditions
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.By
 
 WebUI.callTestCase(findTestCase('Test Cases/UTENTI - INSERIMENTO/3 - Creazione nuovo utente Admin Callcenter con associati 3 prodotti'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -65,7 +70,8 @@ List<WebElement> rows = table.findElements(By.tagName('tr'))
 println rows
 
 int i = 1
-
+WebDriverWait wait = new WebDriverWait(DriverFactory.getWebDriver(), 10)
+rows = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.tagName("tr")))
 WebElement row = rows.get(i)
 
 // Trova tutte le celle (colonne) della riga corrente
