@@ -362,7 +362,7 @@ robot2.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot2.keyPress(KeyEvent.VK_ENTER)
 robot2.keyRelease(KeyEvent.VK_ENTER)
-WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
+WebUI.click(findTestObject('Object Repository/CLIENTI/14 - Modifica cliente primo livello Banca/button_Aggiorna'))
 
 TestObject dynamicSpanObject4 = new TestObject().addProperty(
 	"xpath",
