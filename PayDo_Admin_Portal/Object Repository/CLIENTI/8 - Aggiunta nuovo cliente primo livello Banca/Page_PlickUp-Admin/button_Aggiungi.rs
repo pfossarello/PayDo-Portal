@@ -7,58 +7,26 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'submit']</value>
+         <value>//*[@id = 'createNewCustomer']</value>
       </entry>
       <entry>
          <key>CSS</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>85a9e97f-be12-4b97-933b-e6f0b5b7ee8f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>bf844456-7f9c-42a0-a4e7-453f8319eb3c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>uppercase h-10 group relative w-full flex justify-center py-2 px-4 border border-transparent font-mediumMontserrat rounded-md text-white bg-skin-fillTo text-base focus:outline-none</value>
-      <webElementGuid>7547dfd5-f63c-4790-9b9e-e777603c2257</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;md:w-1/2 w-full flex flex-col h-auto&quot;]/div[@class=&quot;flex flex-col p-4 lg:py-10 lg:px-14 lg:3/5 md:w-5/6 w-full text-md font-regular xl:w-9/12 xl:py-10 xl:px-16&quot;]/div[@class=&quot;space-y-5&quot;]/div[10]/button[@class=&quot;uppercase h-10 group relative w-full flex justify-center py-2 px-4 border border-transparent font-mediumMontserrat rounded-md text-white bg-skin-fillTo text-base focus:outline-none&quot;]</value>
-      <webElementGuid>5f1c1e53-a1f9-4a90-aac0-7f8b0b5c7dbd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>createNewCustomer</value>
-      <webElementGuid>be4a0d50-2b84-40bb-8fc0-2f49c9674877</webElementGuid>
+      <webElementGuid>4d98a71a-ba81-4c05-aa06-0aaa97722ee7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +34,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>db5afbb7-86aa-4473-943b-51f4ad386120</webElementGuid>
+      <webElementGuid>f25f90b8-3371-449e-89af-bafc5519d814</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +42,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/form/div/div[2]/div/div/div[10]/button</value>
-      <webElementGuid>21f270d9-ac59-4c0d-93f9-e4a5b9bee767</webElementGuid>
+      <webElementGuid>6fa21e3d-2883-4118-86f3-d82fe6bbbfe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +50,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cliente 2° livello'])[2]/following::button[1]</value>
-      <webElementGuid>43a6bde0-7784-4a7f-a868-e12002ff4654</webElementGuid>
+      <webElementGuid>583e6d72-cd06-4fca-be6d-4bd98164c196</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[2]/following::button[2]</value>
-      <webElementGuid>9f3aa3f9-7b52-49d4-a0e5-3817a0163c37</webElementGuid>
+      <webElementGuid>bc7171c3-1d2b-45be-b97d-164a428c738b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2024'])[1]/preceding::button[1]</value>
-      <webElementGuid>dc6618fb-c6cb-4486-b5b3-1ae40dddaa6b</webElementGuid>
+      <webElementGuid>583dde0b-f1cf-48d2-a879-b593264c278b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Aggiungi']/parent::*</value>
-      <webElementGuid>24bd1496-229a-422c-9295-c26436a11d76</webElementGuid>
+      <webElementGuid>77b0ed01-eabc-499d-91f9-0fa5e3d7e6b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/button</value>
-      <webElementGuid>ccacc643-8e3d-4620-8806-082f6f41dcf2</webElementGuid>
+      <webElementGuid>ba746219-84d9-4ebc-821d-5407a86e5a32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Aggiungi' or . = 'Aggiungi')]</value>
-      <webElementGuid>75e416fa-3cb7-4af7-945f-9bd74219742f</webElementGuid>
+      <webElementGuid>e6f7e2af-fa13-4376-998e-bc4e1f24a280</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

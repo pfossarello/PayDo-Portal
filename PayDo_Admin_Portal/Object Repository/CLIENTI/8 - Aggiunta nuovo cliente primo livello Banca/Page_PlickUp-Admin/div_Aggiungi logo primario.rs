@@ -6,76 +6,28 @@
    <elementGuidId>d32ce86e-40a7-4cf7-a51e-1fe55ae75c96</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@role='button' and contains(@class, 'rounded-md') and contains(@class, 'cursor-pointer')]//p[text()='Aggiungi logo primario']</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'addPrimaryLogo']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.border.rounded-md.h-36.py-6.flex.flex-col.justify-center.items-center.cursor-pointer</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = ' Aggiungi logo primario' or . = ' Aggiungi logo primario')]</value>
+         <key>XPATH</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>div</value>
-      <webElementGuid>d3ec197a-51a6-4c3c-a483-67898f042cee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>1a409caf-2325-4dfe-b6ae-4d617a166e8e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>ee387ba1-bf17-47ce-a9ba-e2d046967f00</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>border rounded-md h-36 py-6 flex flex-col justify-center items-center cursor-pointer</value>
-      <webElementGuid>7cd00052-bf26-45c1-a316-8d9276dd7916</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value> Aggiungi logo primario</value>
-      <webElementGuid>193cc142-96fb-44ee-a39c-1f379a016dda</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col h-screen justify-between font-regularMontserrat text-skin-base&quot;]/main[@class=&quot;mb-auto h-auto px-6 sm:px-10 xl:px-20 mt-28 py-6&quot;]/form[1]/div[@class=&quot;flex flex-wrap&quot;]/div[@class=&quot;md:w-1/2 w-full flex flex-col text-lg font-mediumMontserrat font-skin-base&quot;]/div[@class=&quot;flex space-y-6 flex-col p-4 lg:py-10 lg:px-14 lg:3/5 md:w-5/6 w-full text-base font-regular xl:w-9/12 xl:py-10 xl:px-16&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;border rounded-md h-36 py-6 flex flex-col justify-center items-center cursor-pointer&quot;]</value>
-      <webElementGuid>c59ae857-4cc3-4faf-93b6-6a6a238a92ec</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>addPrimaryLogo</value>
-      <webElementGuid>62d2da52-8296-43dd-b778-38e095025b61</webElementGuid>
+      <webElementGuid>be476b90-9439-44f5-9e18-9287112c32ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +35,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/form/div/div/div/div/div</value>
-      <webElementGuid>9a133aeb-3091-47b0-8733-e9893bd3c589</webElementGuid>
+      <webElementGuid>71aecc3d-b7c4-4564-b7d2-ba8cfae61f07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +43,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[5]</value>
-      <webElementGuid>5133420c-8608-473f-875c-bef5af48234c</webElementGuid>
+      <webElementGuid>348b3f18-0860-4ee5-8205-ba5668162b3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +51,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='i file supportati per i loghi devono essere di tipo .png'])[1]/preceding::div[3]</value>
-      <webElementGuid>4a21b349-27b3-416d-805b-687aab6e0e88</webElementGuid>
+      <webElementGuid>c5d69e14-fddb-410b-9f72-2e73e9265de5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +59,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='le dimensioni del file non devono superare 1MB'])[1]/preceding::div[3]</value>
-      <webElementGuid>dd35a406-f28a-4e2c-8b3d-bf09a0016dcf</webElementGuid>
+      <webElementGuid>1f96ef61-a7ce-40c1-8b56-4de5081b013d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      <webElementGuid>c72b9893-0e23-4d2d-a6b4-0bb8b7595715</webElementGuid>
+      <webElementGuid>a9b75ad7-3895-4b8d-b037-2d7f51def6e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +75,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div</value>
-      <webElementGuid>56597142-fb4f-41ce-a877-13cafec72257</webElementGuid>
+      <webElementGuid>aa33be42-e42f-4e08-9fcd-1ce6322f064e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,6 +83,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Aggiungi logo primario' or . = ' Aggiungi logo primario')]</value>
-      <webElementGuid>e26eed8b-3b8e-41f9-8c60-45f2a0ffcea9</webElementGuid>
+      <webElementGuid>cd779413-da24-4de4-8392-00f7c54bbdba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -102,7 +102,7 @@ WebUI.sendKeys(phoneField1, "\b")
 WebUI.setText(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/phone client service'),'3297656333')
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button banca'))
 WebUI.delay(2)
-//WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
+
 
 
 String pngPath = '1726582212751.PNG'
@@ -131,6 +131,7 @@ robot.keyRelease(KeyEvent.VK_ENTER)
 JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
 js.executeScript("window.scrollTo(0, document.body.scrollHeight);")
 
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject = new TestObject().addProperty(
@@ -233,8 +234,6 @@ WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente
 WebUI.delay(2)
 
 
-//WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
-
 
 String pngPath1 = '1726582212751.PNG'
 println pngPath1
@@ -262,6 +261,7 @@ robot1.keyRelease(KeyEvent.VK_ENTER)
 JavascriptExecutor js1 = (JavascriptExecutor) DriverFactory.getWebDriver()
 js1.executeScript("window.scrollTo(0, document.body.scrollHeight);")
 
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject2 = new TestObject().addProperty(

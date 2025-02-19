@@ -98,8 +98,6 @@ WebUI.sendKeys(phoneField1, "\b")
 WebUI.setText(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/phone client service'),'3297656333')
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button corporate'))
 WebUI.delay(2)
-//WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
-
 
 String pngPath = '1726582212751.PNG'
 println pngPath
@@ -123,6 +121,7 @@ robot.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot.keyPress(KeyEvent.VK_ENTER)
 robot.keyRelease(KeyEvent.VK_ENTER)
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject = new TestObject().addProperty(
@@ -259,6 +258,7 @@ robot1.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot1.keyPress(KeyEvent.VK_ENTER)
 robot1.keyRelease(KeyEvent.VK_ENTER)
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/14 - Modifica cliente primo livello Banca/button_Aggiorna'))
 
 TestObject dynamicSpanObject3 = new TestObject().addProperty(

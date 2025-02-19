@@ -124,6 +124,7 @@ robot.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot.keyPress(KeyEvent.VK_ENTER)
 robot.keyRelease(KeyEvent.VK_ENTER)
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject = new TestObject().addProperty(
@@ -250,6 +251,7 @@ robot1.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot1.keyPress(KeyEvent.VK_ENTER)
 robot1.keyRelease(KeyEvent.VK_ENTER)
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject2 = new TestObject().addProperty(
@@ -362,6 +364,7 @@ robot2.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot2.keyPress(KeyEvent.VK_ENTER)
 robot2.keyRelease(KeyEvent.VK_ENTER)
+WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/14 - Modifica cliente primo livello Banca/button_Aggiorna'))
 
 TestObject dynamicSpanObject4 = new TestObject().addProperty(

@@ -6,68 +6,28 @@
    <elementGuidId>36e0f78e-b8af-4c69-89b2-69dc1a096661</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='createNewCustomer']</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'createNewCustomer']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#createNewCustomer</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@id = 'createNewCustomer' and @type = 'submit' and (text() = 'Aggiorna' or . = 'Aggiorna')]</value>
+         <key>XPATH</key>
+         <value>//button[@id='createNewCustomer']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>745c0d53-a2e3-4e51-b9f4-b3c6d2bfd1e2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>createNewCustomer</value>
-      <webElementGuid>0ca694c7-52cc-4de7-947e-55f52398d8e3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>d5847354-c529-4234-9bdf-94efe8625207</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>uppercase h-10 group relative w-full flex justify-center py-2 px-4 border border-transparent font-mediumMontserrat rounded-md text-white bg-skin-fillTo text-base focus:outline-none</value>
-      <webElementGuid>17449c1b-4062-4bb6-9975-2182345de886</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Aggiorna</value>
-      <webElementGuid>1d9d5853-30d6-4f60-a3a7-3d4c4b48fd3e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;createNewCustomer&quot;)</value>
-      <webElementGuid>5e235d35-7767-4cb2-a300-fa5fe5123ca8</webElementGuid>
+      <webElementGuid>8942ddca-9dce-4418-921b-f8d73dba235c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,7 +35,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='createNewCustomer']</value>
-      <webElementGuid>73e4b9fb-062a-428f-97c6-df55d7d8c841</webElementGuid>
+      <webElementGuid>a866697f-7f31-4019-acfa-7289383e1f94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +43,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/form/div/div[2]/div/div/div[10]/button</value>
-      <webElementGuid>c56382ec-f36e-444e-90d8-97818ca41b36</webElementGuid>
+      <webElementGuid>e2b908a4-5eb9-43e3-a5f9-ee6fa41b0f7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +51,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cliente 2° livello'])[2]/following::button[1]</value>
-      <webElementGuid>d71d5419-8171-4c78-a6a5-15e8c7c0aec7</webElementGuid>
+      <webElementGuid>27a2d0e0-efd1-4a11-be86-26f926616ed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +59,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[2]/following::button[2]</value>
-      <webElementGuid>03882cb9-34fb-4e5a-8d42-1b1bf8dce6c2</webElementGuid>
+      <webElementGuid>84f2eab9-ec67-439c-9bec-ecdf945cfd54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Aggiorna']/parent::*</value>
-      <webElementGuid>b68a9ce2-c36e-4c60-bed5-af1cbcf3a977</webElementGuid>
+      <webElementGuid>c65df79c-ab71-43ee-a18f-73b74a0d0b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +75,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/button</value>
-      <webElementGuid>bc645fd6-70d7-4ad1-8b0c-c077fe0cfa29</webElementGuid>
+      <webElementGuid>1df0d1de-0b0b-484e-b964-f34cc26afea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,6 +83,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'createNewCustomer' and @type = 'submit' and (text() = 'Aggiorna' or . = 'Aggiorna')]</value>
-      <webElementGuid>7b4d6c1d-c6aa-432f-9f7d-0f360b375855</webElementGuid>
+      <webElementGuid>3a8ba19e-1228-4f89-9a08-51456253f6d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
