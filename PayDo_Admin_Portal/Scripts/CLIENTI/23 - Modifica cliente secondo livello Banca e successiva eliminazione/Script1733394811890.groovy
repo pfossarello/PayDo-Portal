@@ -12,7 +12,6 @@ import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
@@ -30,7 +29,8 @@ import java.awt.Robot
 import java.awt.Toolkit
 import java.awt.datatransfer.StringSelection
 import java.awt.event.KeyEvent
-
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.JavascriptExecutor
 
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
@@ -99,7 +99,6 @@ WebUI.sendKeys(phoneField1, "\b")
 WebUI.setText(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/phone client service'),'3297656333')
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button banca'))
 WebUI.delay(2)
-//WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 
 String pngPath = '1726582212751.PNG'
@@ -124,7 +123,9 @@ robot.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot.keyPress(KeyEvent.VK_ENTER)
 robot.keyRelease(KeyEvent.VK_ENTER)
-WebUI.delay(2)
+WebUI.delay(4)
+JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
+js.executeScript("window.scrollTo(0, document.body.scrollHeight);")
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject = new TestObject().addProperty(
@@ -218,16 +219,11 @@ WebUI.click(phoneField2)
 // Seleziona tutto il testo nel campo (Ctrl+A)
 WebUI.sendKeys(phoneField2, Keys.chord(Keys.CONTROL, 'a'))
 
-// Cancella il testo selezionato (tasto Delete)
-//for (int i = 0; i < 13; i++) {
-//    WebUI.sendKeys(phoneField1, "\b") // Usa "\b" per il BACKSPACE
-//}
+
 WebUI.sendKeys(phoneField2, "\b")
 WebUI.setText(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/phone client service'),'3297656333')
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button banca'))
-WebUI.delay(2)
-//WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
-
+WebUI.delay(3)
 
 String pngPath1 = '1726582212751.PNG'
 println pngPath1
@@ -251,7 +247,10 @@ robot1.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot1.keyPress(KeyEvent.VK_ENTER)
 robot1.keyRelease(KeyEvent.VK_ENTER)
-WebUI.delay(2)
+WebUI.delay(4)
+JavascriptExecutor js1 = (JavascriptExecutor) DriverFactory.getWebDriver()
+js1.executeScript("window.scrollTo(0, document.body.scrollHeight);")
+
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject2 = new TestObject().addProperty(
@@ -338,7 +337,7 @@ WebUI.sendKeys(phoneField4, Keys.chord(Keys.CONTROL, 'a'))
 WebUI.sendKeys(phoneField4, "\b")
 WebUI.setText(findTestObject('Object Repository/CLIENTI/14 - Modifica cliente primo livello Banca/Numero servizio clienti'),'3247644444')
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button corporate'))
-WebUI.delay(2)
+WebUI.delay(3)
 WebUI.click(findTestObject('Object Repository/CLIENTI/14 - Modifica cliente primo livello Banca/Elimina logo'))
 
 
@@ -364,7 +363,9 @@ robot2.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot2.keyPress(KeyEvent.VK_ENTER)
 robot2.keyRelease(KeyEvent.VK_ENTER)
-WebUI.delay(2)
+WebUI.delay(4)
+JavascriptExecutor js2 = (JavascriptExecutor) DriverFactory.getWebDriver()
+js2.executeScript("window.scrollTo(0, document.body.scrollHeight);")
 WebUI.click(findTestObject('Object Repository/CLIENTI/14 - Modifica cliente primo livello Banca/button_Aggiorna'))
 
 TestObject dynamicSpanObject4 = new TestObject().addProperty(

@@ -30,6 +30,8 @@ import java.awt.Robot
 import java.awt.Toolkit
 import java.awt.datatransfer.StringSelection
 import java.awt.event.KeyEvent
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.JavascriptExecutor
 
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
@@ -90,16 +92,11 @@ WebUI.click(phoneField1)
 // Seleziona tutto il testo nel campo (Ctrl+A)
 WebUI.sendKeys(phoneField1, Keys.chord(Keys.CONTROL, 'a'))
 
-// Cancella il testo selezionato (tasto Delete)
-//for (int i = 0; i < 13; i++) {
-//    WebUI.sendKeys(phoneField1, "\b") // Usa "\b" per il BACKSPACE
-//}
+
 WebUI.sendKeys(phoneField1, "\b")
 WebUI.setText(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/phone client service'),'3297656333')
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button banca'))
-WebUI.delay(2)
-//WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
-
+WebUI.delay(3)
 
 String pngPath = '1726582212751.PNG'
 println pngPath
@@ -123,7 +120,12 @@ robot.keyRelease(KeyEvent.VK_CONTROL)
 // Premere Enter per confermare il caricamento
 robot.keyPress(KeyEvent.VK_ENTER)
 robot.keyRelease(KeyEvent.VK_ENTER)
-WebUI.delay(2)
+
+
+
+WebUI.delay(4)
+JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
+js.executeScript("window.scrollTo(0, document.body.scrollHeight);")
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
 
 TestObject dynamicSpanObject = new TestObject().addProperty(
