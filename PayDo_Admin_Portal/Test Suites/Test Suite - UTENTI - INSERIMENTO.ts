@@ -85,7 +85,7 @@
       <guid>f5e68d6b-90e7-459a-bed1-1a146f48b9ce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/UTENTI - INSERIMENTO/9 - Creazione nuovo utente AdminPayDo con lunghezza numero di cell minore di 6 cifre - errore</testCaseId>
+      <testCaseId>Test Cases/UTENTI - INSERIMENTO/9 - Creazione nuovo utente AdminPayDo con lungh num di cell minore di 6 cifre - errore</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

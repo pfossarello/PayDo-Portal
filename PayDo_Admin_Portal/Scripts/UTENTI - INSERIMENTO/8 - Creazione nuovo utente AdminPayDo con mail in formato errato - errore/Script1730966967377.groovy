@@ -26,7 +26,7 @@ import com.kms.katalon.core.testobject.ConditionType
 
 
 WebUI.openBrowser('')
-
+WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://admin.test.plickup.eu/')
 
 WebUI.setText(findTestObject('Object Repository/UTENTI - INSERIMENTO/1 - Creazione nuovo utente AdminPayDo con associati 3 prodotti/Page_PlickUp-Admin/input_accedi_username'), 

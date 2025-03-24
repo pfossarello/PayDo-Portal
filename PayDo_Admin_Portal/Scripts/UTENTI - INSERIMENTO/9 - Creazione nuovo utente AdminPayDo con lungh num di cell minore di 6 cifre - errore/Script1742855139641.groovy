@@ -26,7 +26,7 @@ import com.kms.katalon.core.testobject.ConditionType
 
 
 WebUI.openBrowser('')
-
+WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://admin.test.plickup.eu/')
 
 WebUI.setText(findTestObject('Object Repository/UTENTI - INSERIMENTO/1 - Creazione nuovo utente AdminPayDo con associati 3 prodotti/Page_PlickUp-Admin/input_accedi_username'), 
@@ -61,12 +61,13 @@ WebUI.setText(findTestObject('Object Repository/UTENTI - INSERIMENTO/1 - Creazio
 
 WebUI.setText(findTestObject('Object Repository/UTENTI - INSERIMENTO/1 - Creazione nuovo utente AdminPayDo con associati 3 prodotti/Page_PlickUp-Admin/input_Phone_form-control w-full h-10'), '329')
 
-String messagecell = WebUI.getText(findTestObject('Object Repository/UTENTI - INSERIMENTO/9 - Creazione nuovo utente AdminPayDo con lunghezza numero di cell minore di 6 cifre - errore/Page_PlickUp-Admin/p_Lunghezza minima di sei numeri'))
+String messagecell = WebUI.getText(findTestObject('Object Repository/UTENTI - INSERIMENTO/9 - Creazione nuovo utente AdminPayDo con lungh num cell minore di 6 cifre - errore/p_Lunghezza minima di sei numeri (1)'))
+println messagecell
 WebUI.delay(3)
 
 WS.verifyMatch('Lunghezza minima di sei numeri', messagecell, true)
 
-println messagecell
+
 
 
 WebUI.closeBrowser()

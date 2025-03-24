@@ -69,13 +69,6 @@ println("Numero di righe visibili nella tabella senza intestazione: " + visibleR
 // Numero atteso di righe
 int expectedRowCount = 10  // Modifica questo valore in base alle tue aspettative
 
-//// Confronta il numero di righe ottenuto con quello atteso
-//if (visibleRowCount1 == expectedRowCount) {
-//	println("Il numero di righe corrisponde: " + visibleRowCount1)
-//} else {
-//	println("Discrepanza nel numero di righe. Atteso: " + expectedRowCount + ", Ottenuto: " + visibleRowCount1)
-//}
-
 // Verifica che il numero di righe ottenuto sia uguale al numero atteso
 WebUI.verifyEqual(visibleRowCount1, expectedRowCount)
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -109,12 +102,6 @@ println("Numero di righe visibili nella tabella senza intestazione: " + visibleR
 // Numero atteso di righe
 int expectedRowCount1 = 5  // Modifica questo valore in base alle tue aspettative
 
-//// Confronta il numero di righe ottenuto con quello atteso
-//if (visibleRowCount1 == expectedRowCount) {
-//	println("Il numero di righe corrisponde: " + visibleRowCount1)
-//} else {
-//	println("Discrepanza nel numero di righe. Atteso: " + expectedRowCount + ", Ottenuto: " + visibleRowCount1)
-//}
 
 // Verifica che il numero di righe ottenuto sia uguale al numero atteso
 WebUI.verifyEqual(visibleRowCount2, expectedRowCount1)

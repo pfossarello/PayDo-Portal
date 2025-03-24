@@ -120,14 +120,14 @@ robot.keyPress(KeyEvent.VK_CONTROL)
 robot.keyPress(KeyEvent.VK_V)
 robot.keyRelease(KeyEvent.VK_V)
 robot.keyRelease(KeyEvent.VK_CONTROL)
-
+robot.delay(2000)
 // Premere Enter per confermare il caricamento
 robot.keyPress(KeyEvent.VK_ENTER)
 robot.keyRelease(KeyEvent.VK_ENTER)
 
 WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
-
+WebUI.delay(2)
 TestObject dynamicSpanObject = new TestObject().addProperty(
 	"xpath",
 	ConditionType.EQUALS,
@@ -140,7 +140,7 @@ TestObject dynamicSpanObject1 = new TestObject().addProperty(
 	ConditionType.EQUALS,
 	"//span[contains(text(), 'Entità creata con successo')]"
 )
-
+WebUI.delay(2)
 String esito1 = WebUI.getText(dynamicSpanObject)
 println esito1
 WS.verifyMatch(esito1, "Cliente aggiunto", true)
@@ -245,14 +245,14 @@ robot1.keyPress(KeyEvent.VK_CONTROL)
 robot1.keyPress(KeyEvent.VK_V)
 robot1.keyRelease(KeyEvent.VK_V)
 robot1.keyRelease(KeyEvent.VK_CONTROL)
-
+robot1.delay(2000)
 // Premere Enter per confermare il caricamento
 robot1.keyPress(KeyEvent.VK_ENTER)
 robot1.keyRelease(KeyEvent.VK_ENTER)
 
 WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/CLIENTI/8 - Aggiunta nuovo cliente primo livello Banca/Page_PlickUp-Admin/button_Aggiungi'))
-
+WebUI.delay(2)
 TestObject dynamicSpanObject2 = new TestObject().addProperty(
 	"xpath",
 	ConditionType.EQUALS,
@@ -265,7 +265,7 @@ TestObject dynamicSpanObject3 = new TestObject().addProperty(
 	ConditionType.EQUALS,
 	"//span[contains(text(), 'Entità creata con successo')]"
 )
-
+WebUI.delay(2)
 String esito2 = WebUI.getText(dynamicSpanObject2)
 println esito2
 WS.verifyMatch(esito2, "Cliente aggiunto", true)
